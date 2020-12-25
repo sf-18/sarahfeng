@@ -19,7 +19,7 @@ But to follow this train of thought: I feel like there’s this notion in art th
 
 When is art not just self-serving and self-aggrandizing? When is art not just wealthy white men congratulating other wealthy white men for being “genius”? I’m trying to come up with something. And I think the answer is something like, art has to be about other people. Art has to be public not in the sense of, existing in a public space, but public in the way we say “public education". It’s got to be accessible. The more accessible, the better. And it should do something. Some real affect. It has to touch the soul, or else it’s just shit sitting in a museum so that a handful of researchers and critics and professors can coo over it.
 
-![](https://github.com/sf-18/sarahfeng/assets/posts/cmon.jpeg)
+![](https://github.com/sf-18/sarahfeng/blob/master/assets/posts/cmon.jpeg)
 
 
 Not to talk about The God of Small Things, but to talk about the God of Small Things. I read it and I fell in love. And then I recommended it to all of my friends and persuaded people to buy it. Anindit cried twice in the first forty-something pages. And so it’s this thing that affected me, deeply. And then other people, too. And it becomes something beautiful you all experienced and can share between each other. That matters. That has value.
