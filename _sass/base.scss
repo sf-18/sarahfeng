@@ -13,7 +13,7 @@ $color__black:      #000000;
 $color__gray:       #eeeeee;
 $color__beige:      #f8f8f1;
 $color__yellow:     #ffd536;
-$color__spring_green: #edffc5;
+$color__spring_green: #fcffe6;
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
