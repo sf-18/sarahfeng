@@ -1,47 +1,4 @@
-# Louie
-[![Gem Version](https://badge.fury.io/rb/louie.svg)](https://badge.fury.io/rb/louie)
-
-A jekyll portfolio generator (that looks awesome). Louie is free, lightweight, and customizable as a blog, archive, or portfolio.
-
-![Home](screenshot.png)
-![Home with hover](screenshot2.png)
-![Post](screenshot3.png)
-
-## Installation
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "louie"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: louie
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install louie
-
-## Usage
-### Basic configurations
-Here are a few general info fields to populate your new site right away.
-
-```yaml
-title: HTML <title>, which is overridden by post/page title if exists
-baseurl: ""
-favicon: "/path/to"
-g_analytics: UA-12345678-1
-
-header: name of your site here
-desc: >
-  description of your site, can be a quick bio if it's a portfolio. It supports HTML so add your links, imgs, whatever!
-```
+website
 
 ### Social media links
 To add links to your social sites (linkedin, twitter, etc) below the bio, create a file named `social.yml` in your `_data` folder (which you may not have created yet). Inside it, follow the following format:
