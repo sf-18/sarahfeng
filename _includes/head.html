@@ -22,7 +22,7 @@
   <meta property="twitter:description" content="{{ page.description }}">
 
   {% if img != "" %}
-  <meta name="twitter:image" content="{{ img | absolute_url }}">
+  <meta name="twitter:image" content="{{ page.img | absolute_url }}">
   {% endif %}
 
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
