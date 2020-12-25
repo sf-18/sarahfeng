@@ -3,7 +3,7 @@ layout: post
 title:  public art
 author: elizabeth zhiying feng
 category: essay
-img: ../assets/posts/tate.jpg
+img: "../assets/posts/tate.jpg"
 ---
 
 I’m currently studying a STEM degree at UC Berkeley, so you can bet good money that I know a lot of people who think “art is stupid.” I’ve always disagreed. Art is human. Things like mathematics, law, physics, medicine—that’s how we’re still living, but art is why we’re still living. But for a certain definition of “art”, I’ve got to concede that the EECS kids have got a point.
