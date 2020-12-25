@@ -13,6 +13,7 @@ $color__black:      #000000;
 $color__gray:       #eeeeee;
 $color__beige:      #f8f8f1;
 $color__yellow:     #ffd536;
+$color__spring_green: #edffc5;
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
@@ -60,7 +61,7 @@ body {
   width: 100%;
   margin: 25px 0;
   padding: 0;
-  background: $color__yellow;
+  background: $color__spring_green;
   font-family: $inconsolata;
   font-size: $font__size;
   font-weight: $font__weight;
