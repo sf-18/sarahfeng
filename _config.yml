@@ -19,6 +19,12 @@ post_title: Story
 post_date: Year
 post_cat: Genre
 
+# posts
+date_format: "%Y"
+post_title: Work
+post_date: Year
+post_cat: Genre
+
 # post detail
 prev-next: true
 
