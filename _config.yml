@@ -6,8 +6,8 @@ favicon: "/assets/feng.png"
 g_analytics: UA-12345678-1
 
 # bio
-header: "(sarah) elizabeth zhiying feng\n
-    冯稚颖\n"
+header: (sarah) elizabeth zhiying feng<br>
+    冯稚颖
 desc: >
     visual artist, writer, and code monkey based out of berkeley
   
