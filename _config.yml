@@ -1,13 +1,14 @@
 # site
-title: Elizabeth Zhiying Feng
+title: elizabeth zhiying feng
 baseurl: ""
 url: "http://sarahfeng.com"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
 
 # bio
-header: (sarah) Elizabeth Zhiying Feng
+header: (sarah) elizabeth zhiying feng
 desc: >
+  visual artist, writer, and code monkey based out of berkeley
   
 
 # posts
