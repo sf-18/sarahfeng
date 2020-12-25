@@ -1,3 +1,4 @@
+---
 layout: post
 title:  public art
 author: elizabeth zhiying feng
@@ -10,7 +11,7 @@ I’m currently studying a STEM degree at UC Berkeley, so you can bet good money
 Self-expression and creativity is a very fundamental desire. Making art, experiencing beauty, translating experience into something tangible—that’s all in our nature. Art is something human beings have been making since the beginning of time. And in that sense, art means something.
 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.frontiersin.org%2F2018%2F03%2F07%2Flanguage-cave-art-mit%2F&psig=AOvVaw34Q9cNK_MUxLKOuT9aQOfG&ust=1608967892565000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjW3s_O6O0CFQAAAAAdAAAAABAD)
+![](https://frontiersinblog.files.wordpress.com/2018/03/frontiers-in-psychology-cave-art-origin-modern-language.jpg)
 
 
 Then you look at what the “art world” is today and it’s not hard to see why people think it’s useless, and stupid. People making all these fancy, random things and coming up with fancy, random words for them to put them into museums and books that only rich people have the time and inclination to ever see or read. Meanwhile, the world spirals into environmental disaster and people die and grieve and struggle just to get by, yeah? People work their whole lives to buy their mom a house or to achieve financial freedom or send their kids to school. People work just not to starve. How many people in the world live in abject poverty? How many people don’t even have clean water or air? How can you see how much suffering every single person lives through on a daily basis and think: okay, these people writing esoteric-sounding articles and making “installations” are doing something that matters. Like, Dude, come on. Grow up. The ability to “make art” or “be an artist” or even experience art seems to just be the function of tremendous privilege. Even being able to sit here on a Tuesday morning and think about whether art is meaningful is a privilege.
