@@ -34,6 +34,9 @@
               {% endif %}
             </div>
           </a>
+          {% if post.img %}
+            <img class="row__img" src="{{ post.img }}" alt="{{ post.title }}">
+          {% endif %}
         </li>
       {% endfor %}
     </ul>
