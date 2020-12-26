@@ -41,7 +41,18 @@
               {{ post.category }}
             </div>
           </a>
-
+          {% if post.photos %}
+            {% for img in post.photos %}
+              <div class="photos__img">
+                <a href="#{{ img[0] }}">
+                  <img src="{{ img[1] }}" alt="{{ img[0] }}" />
+                </a>
+                <a class="lightbox" id="{{ img[0] }}" href="#_">
+                  <img src="{{ img[1] }}" alt="{{ img[0] }}" />
+                </a>
+              </div>
+            {% endfor %}
+          {% endif %}
           {% if post.img %}
             <img class="row__img" src="{{ post.img }}" alt="{{ post.title }}">
           {% endif %}
