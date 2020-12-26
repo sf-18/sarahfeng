@@ -1,9 +1,9 @@
 {% if site.posts %}
   {% for category in site.categories %}
-    <header>
-      <h2> {{category[0]}} </h2>
-     </header>
     <ul class="rows">
+      <header>
+      <h3> {{category[0]}} </h3>
+     </header>
       <li class="row__cols">
         <div class="row__title">
           {% if site.post_title %}
