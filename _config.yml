@@ -5,10 +5,11 @@ url: "http://sarahfeng.com"
 favicon: "/assets/feng.png"
 
 # bio
-header: (sarah) elizabeth zhiying feng<br>
+header: elizabeth zhiying feng<br>
     冯稚颖
 desc: >
     visual artist, researcher, writer, and code monkey based out of berkeley
+    recipient of a 2021 poetry & the senses fellowship from uc berkeley's arts research center
   
 # posts
 date_format: "%Y"
