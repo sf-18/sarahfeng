@@ -10,7 +10,10 @@
             {{ site.header }}
           </a>
         </div>
-        <div class="image_post__body">
+        <div class="post__body">
+           {{ content }}
+        </div>
+        <div class="image_gallery">
            {% include image-gallery.html folder="/art/" %}
         </div>
     </div>
