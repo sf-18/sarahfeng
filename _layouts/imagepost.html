@@ -4,16 +4,17 @@
 
   <body>
     <div class="container">
-        <div class="bio__header image__bio__header">
-          <a href="{{ site.url }}{{ "/" | relative_url }}">
-            {{ site.header }}
-          </a>
-        </div>
-        <div class="image__container">
+        <div class='image__sticky'>
+          <div class="bio__header image__bio__header">
+            <a href="{{ site.url }}{{ "/" | relative_url }}">
+              {{ site.header }}
+            </a>
+          </div>
           <div class="image__post__body">
           {{ content }}
           </div>
-          <div class="image__gallery">
+        </div>
+        <div class="image__gallery">
            {% include image-gallery.html folder="/art/" %}
         </div>
       </div>
