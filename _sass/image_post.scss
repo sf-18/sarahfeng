@@ -23,6 +23,17 @@
       margin-right: auto;
       display: block;
     }
+  
+}
+
+@media (min-width: 48em) {
+  .image__post__body {
+    /*    position: absolute;*/
+    right: 1rem;
+    bottom: 1rem;
+    left: 1rem;
+
+  }
 }
 .image_gallery {
     float: left;
