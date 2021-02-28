@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {% include head.html %}
-  {% include image-gallery.html folder="/assets/posts" %}
 
   <body>
     <div class="container">
@@ -12,7 +11,7 @@
           </a>
         </div>
         <div class="image_post__body">
-          {{ content }}
+           {% include image-gallery.html folder="/assets/posts" %}
         </div>
     </div>
   </body>
