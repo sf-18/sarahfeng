@@ -2,7 +2,7 @@
 layout: post
 title: The God of Small Things
 category: essay
-img: "/assets/roy.jpg"
+img: "/assets/posts/roy.jpg"
 ---
 
 Earlier this month, by recommendation of Julieta (still the best writer I know in real life), I read Arundhati Roy’s *The God of Small Things.* 
