@@ -1,59 +1,3 @@
-.post__meta {
-  margin: 30px 0 20px;
-  border-bottom: 1px solid $color__black;
-  overflow: hidden;
-  font-weight: 700;
-}
-
-.post__paginate {
-  overflow: hidden;
-}
-
-$paginate-padding: 13px;
-.post__paginate-left,
-.post__paginate-right {
-  position: relative;
-  display: block;
-  width: 50%;
-}
-
-.post__paginate-left {
-  padding-left: $paginate-padding;
-  float: left;
-
-  &:before {
-    position: absolute;
-    top: 0;
-    left: 0;
-    content: "\21FD";
-  }
-}
-
-.post__paginate-right {
-  padding-right: $paginate-padding;
-  text-align: right;
-  float: right;
-
-  &:after {
-    position: absolute;
-    top: 0;
-    right: 0;
-    content: "\21FE";
-  }
-}
-
-.post__title {
-  @extend .row__title;
-}
-
-.post__date {
-  @extend .row__date;
-}
-
-.post__cat {
-  @extend .row__cat;
-}
-
 .image_post_body {
   padding-bottom: 20px;
   border-bottom: 1px solid $color__black;
@@ -74,6 +18,16 @@ $paginate-padding: 13px;
     margin-right: auto;
     display: block;
   }
+}
+
+.image_post {
+    width: 300px;
+    float:left; /* add this */
+    border: 1px solid red;
+}
+#second {
+    border: 1px solid green;
+    overflow: hidden; /* if you don't want #second to wrap below #first */
 }
 
 // media queries
