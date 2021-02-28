@@ -20,7 +20,6 @@
           {% endif %}
         </div>
       </li>
-      <ul>
       {% for post in category.last %}
         <li class="row__post">
             <a href="{{ site.url }}{{ post.url | relative_url }}">
@@ -53,7 +52,6 @@
             <img class="row__img" src="{{ post.img }}" alt="{{ post.title }}">
           {% endif %}
         </li>
-      </ul>
       {% endfor %}
     </ul>
   {% endfor %}                                               
