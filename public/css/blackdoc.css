@@ -29,14 +29,14 @@ ______ _            _   ______
  * Update the foundational and global aspects of the page.
  */
 
-@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
-$inconsolata:       'Inconsolata', monospace;
-$font__size:        14px;
-$font__weight:      400;
-$font__line-height: 1.5;
+@font-face {
+  font-family: Incosolata,
+  src : url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+}
+
 
 html {
-  font-family: "Inconsolata", Helvetica, Arial, sans-serif;
+  font-family: Inconsolata, Helvetica, Arial, sans-serif;
 }
 
 body {
