@@ -43,7 +43,8 @@
   }
 }
 .image_gallery {
-    float: left;
+    float: right;
+    max-width: 75%;
     overflow: hidden; /* if you don't want #second to wrap below #first */
 }
 
