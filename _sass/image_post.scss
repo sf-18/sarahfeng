@@ -20,13 +20,16 @@
   }
 }
 
-.image_post {
-    width: 300px;
-    float:left; /* add this */
-    border: 1px solid red;
+.image_container {
+  overflow: hidden;
 }
-#second {
-    border: 1px solid green;
+
+.image_post {
+    max-width: 45%;
+    float:left; /* add this */
+}
+.image_gallery {
+    float: left;
     overflow: hidden; /* if you don't want #second to wrap below #first */
 }
 
