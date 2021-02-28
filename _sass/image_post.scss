@@ -5,8 +5,8 @@
 }
 
 .image__sticky {
-    float:left;
-    max-width:35%;
+    vertical-align: top;
+    max-width:100%;
     padding: 2rem 2rem;
     overflow: auto;
 }
@@ -39,6 +39,8 @@
     left: 0;
     bottom: 0;
     padding: 3rem 5rem;
+    float: left;
+    max-width: 35%;
 
   }
 }
