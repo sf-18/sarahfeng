@@ -1,5 +1,11 @@
 $button-padding: 20px;
 
+@mixin calc($property, $params, $important: false) {
+  $important: if($important, ' !important', '');
+  #{$property}: -webkit-calc(#{$params}) #{$important}; // Safari 6
+  #{$property}: calc(#{$params}) #{$important};
+}
+
 .lightbox {
   display: none;
   position: fixed;
