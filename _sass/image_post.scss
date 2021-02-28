@@ -32,9 +32,11 @@
 @media (min-width: 48em) {
   .image__sticky {
     /*    position: absolute;*/
-    right: 1rem;
-    bottom: 1rem;
-    left: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    max-width: 35%
 
   }
 }
