@@ -1,5 +1,5 @@
 <style>
-    .image-gallery {overflow: auto; margin-left: -4.5%!important;}
+    .image-gallery {overflow: auto;}
     .image-gallery li {float: left; display: block; margin: 0 0 5% 5%; width: 25%;}
     .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
     .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
@@ -14,7 +14,7 @@
           {% assign filename = filenameparts | last | replace: file.extname,"" %}
           <li>
               <a href="{{ file.path | relative_url }}" title="{{ filename }}">
-                  <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=100" alt="{{ filename }}" title="{{ filename }}" />
+                  <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=500&h=500&output=jpg&q=100" alt="{{ filename }}" title="{{ filename }}" />
               </a>
           </li>
         {% endif %}
