@@ -29,8 +29,14 @@ ______ _            _   ______
  * Update the foundational and global aspects of the page.
  */
 
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+$inconsolata:       'Inconsolata', monospace;
+$font__size:        14px;
+$font__weight:      400;
+$font__line-height: 1.5;
+
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Inconsolata", Helvetica, Arial, sans-serif;
 }
 
 body {
