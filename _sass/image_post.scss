@@ -3,14 +3,39 @@
   overflow: hidden;
 }
 
-.image__post {
-    max-width: 35%;
-    float:left; /* add this */
+.image__post__body {
+  padding-bottom: 20px;
+  float:left;
+  max-width:35%;
+
+    pre {
+      background: $color__gray;
+      padding: 10px 20px;
+    }
+
+    code {
+      background: $color__gray;
+      font-size: 12px;
+    }
+
+    img {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+    }
 }
-.image-gallery {
+.image_gallery {
     float: left;
     overflow: hidden; /* if you don't want #second to wrap below #first */
 }
+
+.image-gallery {
+  overflow: auto;
+}
+.image-gallery li {float: left; display: block; margin: 0 0 5% 5%; width: 75%;}
+.image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+.image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+.image-gallery li a img {width: 100%; display: block;}
 
 // media queries
 @include media-query($on-laptop) {
