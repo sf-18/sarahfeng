@@ -11,6 +11,11 @@
     overflow: auto;
 }
 
+.image__gallery {
+    vertical-align: top;
+    max-width: 100%;
+}
+
 .image__body {
   margin: -20px 0 0px
 }
@@ -37,7 +42,7 @@
   
 }
 
-@media screen and (min-width: 48em) {
+@media screen and (min-width: 64em) {
   .image__sticky {
     position: fixed;
     top: 0;
@@ -48,12 +53,13 @@
     max-width: 35%;
 
   }
-}
-.image__gallery {
-    float: left;
+  .image__gallery {
+    float: right;
     max-width: 75%;
     overflow: hidden; /* if you don't want #second to wrap below #first */
+  }
 }
+
 
 .image-gallery {
   overflow: auto;
