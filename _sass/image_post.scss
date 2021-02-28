@@ -3,14 +3,13 @@
   overflow: hidden;
 }
 
-.image__bio__header {
-  max-width:35%
+.image__sticky {
+    float:left;
+    max-width:35%;
 }
 
 .image__post__body {
   padding-bottom: 20px;
-  float:left;
-  max-width:35%;
 
     pre {
       background: $color__gray;
@@ -31,7 +30,7 @@
 }
 
 @media (min-width: 48em) {
-  .image__post__body, image__bio__header {
+  .image__sticky {
     /*    position: absolute;*/
     right: 1rem;
     bottom: 1rem;
