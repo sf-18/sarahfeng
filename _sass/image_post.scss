@@ -20,15 +20,15 @@
   }
 }
 
-.image_container {
+.image__container {
   overflow: hidden;
 }
 
-.image_post {
+.image__post {
     max-width: 35%;
     float:left; /* add this */
 }
-.image_gallery {
+.image__gallery {
     float: left;
     overflow: hidden; /* if you don't want #second to wrap below #first */
 }
