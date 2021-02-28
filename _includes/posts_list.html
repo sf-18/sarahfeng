@@ -20,7 +20,7 @@
           {% endif %}
         </div>
       </li>
-      {% for post in category.last %}
+      {% for post in category %}
         <li class="row__post">
           {% if not post.photos %}
             <a href="{{ site.url }}{{ post.url | relative_url }}">
