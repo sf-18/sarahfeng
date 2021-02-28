@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Duke's Journal 
 tagline:          Learning through doing
 description:      "Duke's journal is about reflecting on coaching lessons so that we can develop better outcomes."
-url:              dukejournal.github.io
+url:              sarahfeng.com
 baseurl:          /
 
 author:
-  name:           'Duke'
-  url:            http://dukejournal.github.io
+  name:           'elizabeth zhiying feng'
+  url:            sarahfeng.com
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://dukejournal.github.io
+  repo:           sarahfeng
