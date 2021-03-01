@@ -45,6 +45,12 @@
   width: 100%;
 }
 
+@media screen and (max-width: 64em) {
+  .row__med {
+    display: none;
+  }
+}
+
 .row__date,
 .row__cat {
   width: auto;
