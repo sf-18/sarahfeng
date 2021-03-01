@@ -21,15 +21,12 @@
         <div class="image__gallery">
            <ul class="image-gallery">
               {% for file in page.photos %}
-                {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.png'%}
-                  {% assign filenameparts = file.path | split: "/" %}
-                  {% assign filename = filenameparts | last | replace: file.extname,"" %}
                   <li>
-                    <a href="#{{ file.path }}">
-                        <img src="{{ file.path }}" alt="{{ filename }}" title="{{ filename }}" />
+                    <a href="#{{ img[1] }}">
+                        <img src="{{ img[1] }}" alt="{{ img[0] }}" title="{{ img[0] }}" />
                     </a>
-                    <a class="lightbox" id="{{ file.path }}" href="#_">
-                        <img src="{{ file.path }}" alt="{{ filename }}" />
+                    <a class="lightbox" id="{{ img[1] }}" href="#_">
+                        <img src="{{ img[1] }}" alt="{{ img[0] }}" />
                     </a>
                   </li>
                 {% endif %}
