@@ -54,14 +54,7 @@
     max-width: 384px; 
   }
 }
-@media screen and (max-width: 400px) {
-  .row__med {
-    display: none;
-  }
-  .row__title, .post__title, .row__date, .post__date, .row__cat, .post__cat {
-    max-width: 300px; 
-  }
-}
+
 .row__date,
 .row__cat,
 .row__med {
