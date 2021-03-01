@@ -12,7 +12,10 @@
 .image__sticky {
   vertical-align: top;
   max-width:100%;
-  padding: 2rem 2rem;
+  padding-top: 10%;
+  padding-bottom : 5%;
+  padding-right: 5%;
+  padding-left: 5%;
   overflow: auto;
 }
 
@@ -58,7 +61,8 @@
     max-width : 80%; 
   }
   .image__gallery {
-    padding-inline-start: 30px;
+    padding-right: 5%;
+    padding-left: 5%;
   } 
 }
 
