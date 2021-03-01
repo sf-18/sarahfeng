@@ -3,7 +3,7 @@ layout: post
 title:  Public Art
 author: elizabeth zhiying feng
 category: writing
-genre: essay
+medium: essay
 img: "../assets/posts/tate.jpg"
 ---
 
