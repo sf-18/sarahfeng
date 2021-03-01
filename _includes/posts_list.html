@@ -48,6 +48,7 @@
             <div class="photos">
               {% for img in post.photos %}
                 <div class="photos__img">
+                  {{ img }}
                   <a href="{{ site.url }}{{ post.url | relative_url }}">
                     <img src="{{ img[1] }}" alt="{{ img[0] }}" />
                   </a>
