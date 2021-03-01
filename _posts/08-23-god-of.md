@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The God of Small Things
-category: essay
+category: writing
 img: "/assets/posts/roy.jpg"
 ---
 
