@@ -62,8 +62,11 @@
   .row__med {
     display: none;
   }
-  .row__title, .post__title, .row__date, .post__date, .row__cat, .post__cat {
-    max-width: 300px; 
+  .row__title, .post__title, .row__date, .post__date {
+    max-width: 200px; 
+  }
+  .row__cat, .post__cat {
+    max-width: 100px;
   }
   .rows {
     display: inline-block;
