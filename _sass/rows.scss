@@ -59,7 +59,7 @@
 }
 
 @media screen and (max-width: 375px) {
-  .row__med {
+  .row__med, .row__date {
     display: none;
   }
   .row__title, .post__title, .row__date, .post__date {
