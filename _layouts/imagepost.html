@@ -20,7 +20,7 @@
         </div>
         <div class="image__gallery">
            <ul class="image-gallery">
-              {% for file in page.photos %}
+              {% for img in page.photos %}
                   <li>
                     <a href="#{{ img[1] }}">
                         <img src="{{ img[1] }}" alt="{{ img[0] }}" title="{{ img[0] }}" />
