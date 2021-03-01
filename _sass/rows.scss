@@ -46,12 +46,12 @@
   width: 100%;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   .row__med {
     display: none;
   }
   .row__title, .post__title, .row__date, .post__date, .row__cat, .post__cat {
-    max-width: 384px; 
+    max-width: 375px; 
   }
 }
 
