@@ -53,6 +53,13 @@
   }
 }
 
+@media screen and (max-width: 48em) {
+  .image__body {
+    margin : 0px 0px 0px;
+  }
+}
+
+
 @media screen and (min-width: 64em) {
   .image__sticky {
     position: fixed;
@@ -68,9 +75,6 @@
     float: right;
     max-width: 80%;
     overflow: hidden; /* if you don't want #second to wrap below #first */
-  }
-  .image__body {
-    margin: 0px 0 0px;
   }
 }
 
