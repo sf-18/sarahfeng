@@ -19,6 +19,13 @@
             Date
           {% endif %}
         </div>
+        <div class="row__med">
+          {% if site.post_medium %}
+            {{ site.post_medium }}
+          {% else %}
+            Medium
+          {% endif %}
+        </div>
       </li>
       {% for post in category[1] %}
         <li class="row__post">
@@ -32,6 +39,9 @@
                 {% else %}
                   {{ post.date | date: "%b %-d, %Y" }}
                 {% endif %}
+              </div>
+              <div class="row__medium {% if include.uid == post.id %}row__active{% endif %}">
+                {{ post.medium}}
               </div>
             </a>
           {% if post.photos %}
