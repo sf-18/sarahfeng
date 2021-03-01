@@ -29,7 +29,6 @@
   
 
 .image__post__body {
-  padding-bottom: 20px;
 
     pre {
       background: $color__gray;
@@ -57,12 +56,12 @@
     bottom: 0;
     padding: 120px 120px;
     float: left;
-    max-width: 45%;
+    max-width: 30%;
 
   }
   .image__gallery {
     float: right;
-    max-width: 75%;
+    max-width: 70%;
     overflow: hidden; /* if you don't want #second to wrap below #first */
   }
 }
