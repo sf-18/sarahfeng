@@ -37,7 +37,8 @@
 
 .row__title,
 .row__date,
-.row__cat {
+.row__cat,
+.row__med {
   float: left;
 }
 
@@ -54,7 +55,8 @@
   }
 }
 .row__date,
-.row__cat {
+.row__cat,
+.row__med {
   width: auto;
 }
 
