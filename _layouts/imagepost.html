@@ -34,8 +34,7 @@
         </div>
        </div>
       </div>
-    </div>
-          {% if site.prev-next %}
+        {% if site.prev-next %}
           <div class="post__paginate">
             {% if page.previous.url %}
               <a class="post__paginate-left" href="{{ site.url }}{{ page.previous.url | relative_url }}">{{ page.previous.title }}</a>
@@ -45,7 +44,8 @@
               <a class="post__paginate-right" href="{{ site.url }}{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
             {% endif %}
           </div>
-    {% endif %}
+        {% endif %}
+    </div>
 
   </body>
 </html>
