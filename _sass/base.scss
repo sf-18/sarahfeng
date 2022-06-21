@@ -4,6 +4,8 @@ $on-laptop:         800px !default;
 // typography
 @import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
 $inconsolata:       'Inconsolata', monospace;
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap');
+$karla: 'Karla', sans-serif;
 $font__size:        14px;
 $font__weight:      400;
 $font__line-height: 1.5;
@@ -62,7 +64,7 @@ body {
   margin: 25px 0;
   padding: 0;
   background: $color__white;
-  font-family: $inconsolata;
+  font-family: $karla;
   font-size: $font__size;
   font-weight: $font__weight;
   line-height: $font__line-height;
