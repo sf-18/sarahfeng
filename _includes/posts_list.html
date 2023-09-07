@@ -29,7 +29,11 @@
       </li>
       {% for post in category[1] %}
         <li class="row__post">
-            <a href="{{ site.url }}{{ post.external_url | post.url | relative_url }}">
+           {% if post.external_url %}
+            <a href="{{ post.external_url}}">
+           {% else %}
+            <a href="{{ site.url }}{{ post.url | relative_url }}">
+           {% endif %}
               <div class="row__title {% if include.uid == post.id %}row__active{% endif %}">
                 {{ post.title }}
               </div>
