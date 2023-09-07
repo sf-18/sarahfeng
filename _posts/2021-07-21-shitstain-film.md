@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  Shitstain
-pub: Asian American Writer's Workshop
+title:  shitstain
 author: elizabeth zhiying feng
 category: art
 medium: short film
