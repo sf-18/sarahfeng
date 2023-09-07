@@ -35,7 +35,7 @@
             <a href="{{ site.url }}{{ post.url | relative_url }}">
            {% endif %}
               <div class="row__title {% if include.uid == post.id %}row__active{% endif %}">
-                {{ post.title}}{% if post.pub %},<div class="pub"> {{ post.pub }} </div>{% endif %}
+                {{ post.title}}{% if post.pub %},<span class="pub"> {{ post.pub }} </span>{% endif %}
               </div>
               <div class="row__date {% if include.uid == post.id %}row__active{% endif %}">
                 {% if site.date_format %}
