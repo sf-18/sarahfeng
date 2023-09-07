@@ -30,7 +30,7 @@
       {% for post in category[1] %}
         <li class="row__post">
            {% if post.external_url %}
-            <a href="{{ post.external_url}}" target="_blank" rel="noopener noreferrer">
+            <a href="{{ post.external_url}}" target="_blank" rel="noopener noreferrer" id="external-link">
            {% else %}
             <a href="{{ site.url }}{{ post.url | relative_url }}">
            {% endif %}
