@@ -29,7 +29,7 @@
       </li>
       {% for post in category[1] %}
         <li class="row__post">
-            <a href="{{ site.url }}{{ post.url | relative_url }}">
+            <a href="{{ site.url }}{{ post.url | post.external_url | relative_url }}">
               <div class="row__title {% if include.uid == post.id %}row__active{% endif %}">
                 {{ post.title }}
               </div>
@@ -57,13 +57,6 @@
           {% endif %}
           {% if post.img %}
             <img class="row__img" src="{{ post.img }}" alt="{{ post.title }}">
-          {% endif %}
-           {% if post.external_url %}
-              <dd class="{{ post.external_site }}">
-                [{{ post.title }}]({{ post.external_url }})
-              </dd>
-          {% else %}
-            <dd>[{{ post.title }}]({{ post.url }})</dd>
           {% endif %}
         </li>
       {% endfor %}
