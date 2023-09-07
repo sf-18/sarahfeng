@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Shitstain - Asian American Writer's Workshop
+title:  Shitstain
+pub: Asian American Writer's Workshop
 author: elizabeth zhiying feng
 category: writing
 medium: flash fiction
