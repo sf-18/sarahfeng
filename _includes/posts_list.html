@@ -58,6 +58,13 @@
           {% if post.img %}
             <img class="row__img" src="{{ post.img }}" alt="{{ post.title }}">
           {% endif %}
+           {% if post.external_url %}
+              <dd class="{{ post.external_site }}">
+                [{{ post.title }}]({{ post.external_url }})
+              </dd>
+          {% else %}
+            <dd>[{{ post.title }}]({{ post.url }})</dd>
+          {% endif %}
         </li>
       {% endfor %}
     </ul>
