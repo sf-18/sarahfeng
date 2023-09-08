@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: imagepost
 title:  shitstain
 author: elizabeth zhiying feng
 category: art
 medium: short film
-img: "/assets/posts/footage.png"
+photos: 
+  moodboard: "/assets/posts/footage.png"
 external_url: https://youtu.be/2gFutRsi9zA?si=vI6s01ne4o2eMeyO
 ---
