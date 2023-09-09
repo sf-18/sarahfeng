@@ -52,12 +52,12 @@
             <div class="photos">
               {% for img in post.photos %}
                 <div class="photos__img">
-                   {% if post.external_url %}
-                      <a href="{{ post.external_url}}" target="_blank" rel="noopener noreferrer" id="external-link">
-                   {% else %}
-                      <a href="{{ site.url }}{{ post.url | relative_url }}">
-                   {% endif %}
+                    <a href="#{{ img[0] }}">
                       <img src="{{ img[1] }}" alt="{{ img[0] }}" />
+                    </a>
+                    <a class="lightbox" id="{{ img[0] }}" href="#_">
+                      <img src="{{ img[1] }}" alt="{{ img[0] }}" />
+                    </a>
                   </a>
                 </div>
               {% endfor %}
