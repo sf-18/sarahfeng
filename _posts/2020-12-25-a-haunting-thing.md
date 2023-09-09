@@ -1,5 +1,5 @@
 ---
-layout: imagepost
+layout: post
 title: a haunting thing
 category: art
 medium: photography + digital
@@ -9,5 +9,3 @@ photos:
   haunt_03: /art/visual_poem3.jpg
   haunt_04: /art/visual_poem4.jpg
 ---
-
-exploring typography, layout, and the body <br>
