@@ -1,5 +1,5 @@
 ---
-layout: imagepost
+layout: gallery
 title: distant worlds
 category: art
 medium: photography + digital
