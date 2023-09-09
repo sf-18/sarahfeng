@@ -29,15 +29,6 @@
 
     </head>
     <body>
-        <h2>
-            Display in a container, cover, with thumbnails :
-        </h2>
-
-            {% for img in post.photos %}
-            <a class="chocolat-image" href="#{{ img[0] }}" title="HO">
-            </a>
-            {% endfor %}
-
         <div id="example3">
         {% for img in post.photos %}
             <a class="chocolat-image" href="#{{ img[0] }}" title="Rose">
