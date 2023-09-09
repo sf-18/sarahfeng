@@ -33,154 +33,22 @@
             Display in a container, looping :
         </h2>
 
-        <div id="example2">
-            {% for img in page.photos %}
-                <a class="chocolat-image" href="#{{ site.url | img[0] }}" title="Rose">
-                    <img src="{{ site.url | img[1] }}" style="width:75px; height:50px" alt="{{ site.url | img[0] }}">
-                </a>
-            {% endfor %}
-        </div>
-        <!-- Container (notice the relative width) :  -->
-        <div id="container1" style="width: 80%; max-width:1000px; height: 600px; background: #E0E0E0; margin:auto;"></div>
+      <div class="chocolat-parent">
+    <a class="chocolat-image" href="series/1.jpg" title="caption image 1">
+        <img width="100" src="series/mini/1.jpg" />
+    </a>
+    <a class="chocolat-image" href="series/2.jpg" title="caption image 2">
+        <img width="100" src="series/mini/2.jpg" />
+    </a>
+    <a class="chocolat-image" href="series/3.jpg" title="caption image 3">
+        <img width="100" src="series/mini/3.jpg"/>
+    </a>
+</div>
 
+<script>document.addEventListener("DOMContentLoaded", function(event) { 
+        Chocolat(document.querySelectorAll('.chocolat-parent .chocolat-image'))
+    })</script>
 
-        <h2>
-            API use, in container, see code source <br>
-            Open console to have details abouts events
-        </h2>
-
-        <a class="api-open" href="#">Open</a> then try <br>
-        <a class="api-next" href="#">Next</a>
-        <a class="api-prev" href="#">Prev</a>
-        <br>
-        <a class="api-cover" href="#">Enter cover mode</a> /
-        <a class="api-contain" href="#">Enter contain mode</a>
-
-        <br>
-        <br>
-        <a class="api-close" href="#">Close</a>
-        <!-- Container (notice the relative width) :  -->
-        <div id="container3" style="width: 80%; max-width:1000px; height: 600px; background: #E0E0E0; margin:auto;"></div>
-        <script>
-            // standard demos
-            Chocolat(document.querySelectorAll('#example0 .chocolat-image'), {
-                imageSize: 'contain'
-            })
-
-            Chocolat(document.querySelectorAll('#example1 .chocolat-image'), {
-                loop: true,
-                imageSize: 'cover',
-                overlayOpacity: 0.9
-            })
-
-            Chocolat(document.querySelectorAll('#example2 .chocolat-image'), {
-                container: document.querySelector('#container1'),
-                imageSize: 'contain',
-                loop: true,
-            })
-
-            Chocolat(document.querySelectorAll('#example3 .chocolat-image'), {
-                container: document.querySelector('#container2'),
-                imageSize: 'cover',
-            })
-        </script>
-        <script>
-            // api demo
-            var instance = Chocolat([
-                    {src : 'demo-images/1.jpg', title : 'caption 1'},
-                    {src : 'demo-images/6.jpg', title : 'caption 2'},
-                    {src : 'demo-images/8.jpg', title : 'caption 3'},
-                ], {
-                setTitle : function () { return 'set title' },
-                loop: true,
-                imageSize : 'contain',
-                container: document.querySelector('#container3'),
-                afterMarkup: function () {
-                    console.log('afterMarkup hook is called')
-                },
-                afterImageLoad: function () {
-                    console.log('afterImageLoad hook is called')
-                },
-                afterInitialize: function () {
-                    console.log('afterInitialize hook is called')
-                },
-                zoomedPaddingX: function (imgWidth, canvasWidth) {
-                    // add a padding around the zoomed image
-                    // default to 0
-                    return canvasWidth / 4;
-                },
-                zoomedPaddingY: function (imgHeight, canvasHeight) {
-                    // add a padding around the zoomed image
-                    // default to 0
-                    return canvasHeight / 4;
-                }
-            });
-            document.querySelector('.api-open').addEventListener('click', function(e) {
-                e.preventDefault()
-
-                console.log('open start');
-                var promise = instance.api.open()
-
-                promise.then(function(){
-                    console.log('open done');
-                })
-            })
-
-            document.querySelector('.api-close').addEventListener('click', function(e) {
-                e.preventDefault()
-
-                console.log('close start');
-                var promise = instance.api.close()
-
-                promise.then(function(){
-                    console.log('close done');
-                })
-            })
-            document.querySelector('.api-prev').addEventListener('click', function(e) {
-                e.preventDefault()
-
-                console.log('prev start');
-                var promise = instance.api.prev()
-
-                promise.then(function(){
-                    console.log('prev done');
-                })
-            })
-            document.querySelector('.api-next').addEventListener('click', function(e) {
-                e.preventDefault()
-
-                console.log('next start');
-                var promise = instance.api.next()
-
-                promise.then(function(){
-                    console.log('next done');
-                })
-            })
-
-            document.querySelector('.api-cover').addEventListener('click', function(e) {
-                e.preventDefault()
-
-                console.log('cover mode start')
-                instance.api.set('imageSize', 'cover')
-                var promise = instance.api.position()
-
-                promise.then(function(){
-                    console.log('cover mode done')
-                })
-            })
-
-            document.querySelector('.api-contain').addEventListener('click', function(e) {
-                e.preventDefault()
-
-                console.log('contain mode start')
-                instance.api.set('imageSize', 'contain')
-                var promise = instance.api.position()
-
-                promise.then(function(){
-                    console.log('contain mode done')
-                })
-            })
-        </script>
     </body>
 
 </html>
