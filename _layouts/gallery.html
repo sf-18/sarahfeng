@@ -30,42 +30,21 @@
     </head>
     <body>
         <h2>
-           Full window, contain, click the numbers to open:
+            Display in a container, cover, with thumbnails :
         </h2>
-        <div id="example0">
-            {% for img in post.photos %}
+
+                    {% for img in post.photos %}
             <a class="chocolat-image" href="#{{ img[0] }}" title="HO">
                 1
             </a>
             {% endfor %}
-        </div>
-
-        <h2>
-            Full window, cover, looping :
-        </h2>
-        <div id="example1">
-            <a class="chocolat-image" href="../assets/demo-images/1.jpg" title="foo">
-                C
-            </a>
-            <a class="chocolat-image" href="../assets/demo-images/2.jpg" title="bar">
-                D
-            </a>
-        </div>
-
-        <h2>
-            Display in a container, cover, with thumbnails :
-        </h2>
 
         <div id="example3">
-            <a class="chocolat-image" href="../assets/demo-images/3.jpg" title="Rose">
-                <img src="demo-images/3.jpg" style="width:75px; height:50px" alt="">
+        {% for img in post.photos %}
+            <a class="chocolat-image" href="#{{ img[0] }}" title="Rose">
+                <img src="{{ img[1] }}" style="width:75px; height:50px" alt="{{ img[0] }}">
             </a>
-            <a class="chocolat-image" href="../demo-images/4.jpg" title="Black">
-                <img src="demo-images/4.jpg" style="width:75px; height:50px" alt="">
-            </a>
-            <a class="chocolat-image" href="../assets/demo-images/5.jpg" title="Yellow">
-                <img src="demo-images/5.jpg" style="width:75px; height:50px" alt="">
-            </a>
+        {% endfor %}
         </div>
         <!-- Container (notice the relative width) :  -->
         <div id="container2" style="width: 80%; max-width:1000px; height: 600px; background: #E0E0E0; margin:auto;"></div>
