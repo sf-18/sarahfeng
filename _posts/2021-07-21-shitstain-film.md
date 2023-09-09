@@ -1,5 +1,5 @@
 ---
-layout: imagepost
+layout: post
 title:  shitstain
 author: elizabeth zhiying feng
 category: art
