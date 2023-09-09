@@ -32,7 +32,10 @@
            {% if post.external_url %}
             <a href="{{ post.external_url}}" target="_blank" rel="noopener noreferrer" id="external-link">
            {% else %}
-            <a href="{{ site.url }}{{ post.url | relative_url }}">
+              {% if post.photos %} 
+              {% else %}
+                <a href="{{ site.url }}{{ post.url | relative_url }}">
+              {% endif %}
            {% endif %}
               <div class="row__title {% if include.uid == post.id %}row__active{% endif %}">
                 {{ post.title }}{% if post.pub %} [<span class="pub"> {{ post.pub }} </span>] {% endif %}
@@ -48,6 +51,7 @@
                 {{ post.medium}}
               </div>
             </a>
+              
           {% if post.photos %}
             <div class="photos">
               {% for img in post.photos %}
@@ -63,6 +67,7 @@
               {% endfor %}
             </div>
           {% endif %}
+              
           {% if post.img %}
             <img class="row__img" src="{{ post.img }}" alt="{{ post.title }}">
           {% endif %}
