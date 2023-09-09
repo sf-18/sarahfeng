@@ -9,7 +9,8 @@
   {% if site.favicon %}
   <link rel="icon" href="{{ site.favicon | relative_url }}" />
   {% endif %}
-  
+
+  <script type="text/javascript" src="{{ "/_js/chocolat.js" | relative_url }}"></script>
   <link rel="stylesheet" href="{{ "/_sass/chocolat.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
