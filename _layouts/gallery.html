@@ -37,14 +37,9 @@
            Full window, contain, click the numbers to open:
         </h2>
         <div id="example0">
-            <a class="chocolat-image" href="../assets/demo-images/5.jpg" title="HO">
+            {% for img in post.photos %}
+            <a class="chocolat-image" href="#{{ img[0] }}" title="HO">
                 1
-            </a>
-            <a class="chocolat-image" href="../assets/demo-images/6.jpg" title="HAI">
-                2
-            </a>
-            <a class="chocolat-image" href="../assets/demo-images/3.jpg" title="IO">
-                3
             </a>
         </div>
 
