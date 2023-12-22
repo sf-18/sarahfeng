@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: post
 title: every photo
 category: art
 medium: digital collage
