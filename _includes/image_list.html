@@ -3,7 +3,7 @@
     {% if category[0] == 'art' %}
         {% for post in category[1] %}
       
-        <li class="row__post" class='image_row'>
+        <li class="row__post" row_type='image'>
           <div class="photos">
             <div class="photos__title">
               {% if site.date_format %}
