@@ -20,7 +20,7 @@
               {{ page.date | date: "%b %-d, %Y" }}
             {% endif %}
           </div>
-          <div class="post__cat">{{ page.category }}</div>
+          <div class="post__cat">{{ page.medium }}</div>
         </div>
 
         <div class="post__body">
@@ -39,8 +39,7 @@
           </div>
         {% endif %}
       </div>
-      </div>
-
+          {% include posts_list.html uid=page.id %}
     </div>
   </body>
 
