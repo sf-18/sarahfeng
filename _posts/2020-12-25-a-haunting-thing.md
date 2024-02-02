@@ -2,6 +2,7 @@
 layout: gallery
 title: a haunting thing
 category: art
+hidden: true
 medium: photography + digital
 photos: 
   haunt_01: /art/visual_poem.jpg
