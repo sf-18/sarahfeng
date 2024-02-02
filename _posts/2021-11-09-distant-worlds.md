@@ -2,6 +2,7 @@
 layout: post
 title: distant worlds
 category: art
+hidden: true
 medium: photography + digital
 photos: 
   dist_01: /art/sea_web.png
