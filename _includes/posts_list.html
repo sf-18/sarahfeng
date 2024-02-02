@@ -33,7 +33,7 @@
         {% endif %}
 
           <div class="row__title {% if include.uid == post.id %}row__active{% endif %}">
-            {{ post.title }}
+            {{ post.title }}{% if post.pub %} [<span class="pub"> {{ post.pub }} </span>] {% endif %}
           </div>
           <div class="row__date {% if include.uid == post.id %}row__active{% endif %}">
             {% if site.date_format %}
