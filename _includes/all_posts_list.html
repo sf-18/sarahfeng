@@ -4,6 +4,9 @@
       <header>
       <h3> {{category[0]}} </h3>
      </header>
+      {% if category[0] == 'writing' %} 
+         {% include posts_list.html uid=page.id %}
+      {% endif %}
       <li class="row__cols">
         <div class="row__title">
           {% if site.post_title %}
