@@ -17,23 +17,24 @@
               {{ post.title }}
               </div>
             </div>
-            {% for img in post.photos %}
-              <div class="photos__img">
-
+            {% if post.thumbnail %}
                 {% if post.external_url %}
+                <div class="photos__img">
                     <a href="{{ post.external_url}}" target="_blank" rel="noopener noreferrer" id="external-link">
-                  <img src="{{ img[1] }}" alt="{{ img[0] }}" />
-                  </a>
-                {% else %}
-
-                
+                    <img src="{{ img[1] }}" alt="{{ img[0] }}" />
+                    </a>
+               </div>
+                {% endif %}
+          {% endif %}
+         
+            {% for img in post.photos %}
+              <div class="photos__img">             
                 <a href="#{{ img[0] }}">
                   <img src="{{ img[1] }}" alt="{{ img[0] }}" />
                 </a>
                 <a class="lightbox" id="{{ img[0] }}" href="#_">
                   <img src="{{ img[1] }}" alt="{{ img[0] }}" />
                 </a>
-                {% endif %}
               </div>
             {% endfor %}
     </li>
