@@ -29,12 +29,12 @@
 
         {% if site.prev-next %}
           <div class="post__paginate">
-            {% if page.previous.url %}
-              <a class="post__paginate-left" href="{{ site.url }}{{ page.previous.url | relative_url }}">{{ page.previous.title }}</a>
+            {% if page.previous_in_category != nil %}
+              <a class="post__paginate-left" href="{{ site.url }}{{ page.previous_in_category.url | relative_url }}">{{ page.previous.title }}</a>
             {% endif %}
 
-            {% if page.next.url %}
-              <a class="post__paginate-right" href="{{ site.url }}{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
+            {% if page.next_in_category != nil %}
+              <a class="post__paginate-right" href="{{ site.url }}{{ page.next_in_category.url | relative_url }}">{{ page.next.title }}</a>
             {% endif %}
           </div>
         {% endif %}
