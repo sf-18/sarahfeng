@@ -1,3 +1,21 @@
+.photos {
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid $color__black;
+  padding: 20px 0;
+  overflow: hidden;
+
+  &:first-child {
+    padding-top: 0;
+  }
+
+  &:last-child {
+    border: none;
+  }
+}
+
+
+
 .photo__gallery {
   display: block;
   width: 100%;
