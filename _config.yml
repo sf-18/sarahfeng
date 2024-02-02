@@ -20,6 +20,10 @@ post_cat: Genre
 # post detail
 prev-next: true
 
+plugins:
+  - jekyll-paginate
+
+
 # build settings
 markdown: kramdown
 # theme: louie
