@@ -26,7 +26,12 @@
     {% for post in site.posts %}
       {% if post.category == 'writing' %}
       <li class="row__post">
-        <a href="{{ site.url }}{{ post.url | relative_url }}">
+        {% if post.external_url %}
+            <a href="{{ post.external_url}}" target="_blank" rel="noopener noreferrer" id="external-link">
+        {% else %}
+                <a href="{{ site.url }}{{ post.url | relative_url }}">
+        {% endif %}
+
           <div class="row__title {% if include.uid == post.id %}row__active{% endif %}">
             {{ post.title }}
           </div>
