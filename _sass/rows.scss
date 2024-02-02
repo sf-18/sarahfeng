@@ -108,10 +108,16 @@
 @include media-query($on-laptop) {
   .row__post {
       &:hover {
+        
       * {
         text-decoration: underline;
         cursor: pointer;
       }
+
+       [row_type="image"] {
+          cursor: pointer;
+          text-decoration: none;
+        }
 
       .row__active {
         text-decoration: line-through;
