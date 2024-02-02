@@ -1,7 +1,6 @@
 .photos {
   display: block;
-  width: 85%;
-  border-bottom: 1px solid $color__black;
+  width: 100%;
   padding: 20px 0;
   overflow: hidden;
 
@@ -90,8 +89,8 @@
   }
 
   .photos__img {
-    width: 10.25%;
-    height: 80px;
-    line-height: 80px;
+    width: 6.25%;
+    height: 55px;
+    line-height: 55px;
   }
 }
