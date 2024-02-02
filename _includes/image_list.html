@@ -1,35 +1,39 @@
 {% if site.posts %}
   {% for category in site.categories %} 
     {% if category[0] == 'art' %}
-        <div class="photos">
-          <div class="photos__title">
-            {% if site.date_format %}
-              {{ post.date | date: site.date_format }}
-            {% else %}
-              {{ post.date | date: "%Y-%m-%d" }}
-            {% endif %}
-            |&nbsp;{{ post.title }}
-          </div>
-          <div class="photos__hover-title">
-             <div>
-            {% if post.external_url %}
-                  <a href="{{ post.external_url}}" target="_blank" rel="noopener noreferrer" id="external-link">{{ post.title }}</a>
-            {% else %}
-            {{ post.title }}
-            {% endif %}
+        {% for post in category[1] %}
+      
+
+          <div class="photos">
+            <div class="photos__title">
+              {% if site.date_format %}
+                {{ post.date | date: site.date_format }}
+              {% else %}
+                {{ post.date | date: "%Y-%m-%d" }}
+              {% endif %}
+              |&nbsp;{{ post.title }}
             </div>
-          </div>
-          {% for img in post.photos %}
-            <div class="photos__img">
-              <a href="#{{ img[0] }}">
-                <img src="{{ img[1] }}" alt="{{ img[0] }}" />
-              </a>
-              <a class="lightbox" id="{{ img[0] }}" href="#_">
-                <img src="{{ img[1] }}" alt="{{ img[0] }}" />
-              </a>
+            <div class="photos__hover-title">
+               <div>
+              {% if post.external_url %}
+                    <a href="{{ post.external_url}}" target="_blank" rel="noopener noreferrer" id="external-link">{{ post.title }}</a>
+              {% else %}
+              {{ post.title }}
+              {% endif %}
+              </div>
             </div>
-          {% endfor %}
-        </div>
+            {% for img in post.photos %}
+              <div class="photos__img">
+                <a href="#{{ img[0] }}">
+                  <img src="{{ img[1] }}" alt="{{ img[0] }}" />
+                </a>
+                <a class="lightbox" id="{{ img[0] }}" href="#_">
+                  <img src="{{ img[1] }}" alt="{{ img[0] }}" />
+                </a>
+              </div>
+            {% endfor %}
+          </div>
+    {% endfor %}
     {% endif %}
   {% endfor %}
 {% endif %}
