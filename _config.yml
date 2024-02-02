@@ -18,10 +18,7 @@ post_date: Year
 post_cat: Genre
 
 # post detail
-prev-next: true
-
-plugins:
-  - jekyll-paginate
+prev-next: false
 
 
 # build settings
