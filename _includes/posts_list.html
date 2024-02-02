@@ -24,7 +24,7 @@
       </div>
     </li>
     {% for post in site.posts %}
-      { % if post.category == 'writing' %}
+      {% if post.category == 'writing' %}
       <li class="row__post">
         <a href="{{ site.url }}{{ post.url | relative_url }}">
           <div class="row__title {% if include.uid == post.id %}row__active{% endif %}">
