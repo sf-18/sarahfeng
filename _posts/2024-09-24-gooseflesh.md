@@ -4,6 +4,7 @@ title:  'Gooseflesh'
 author: elizabeth zhiying feng
 category: writing
 medium: fiction
+img: "/assets/posts/alaska.jpg"
 ---
 
 He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth. I was lolling around in the passenger seat, my ribs poking into my lungs. I had so many questions, and no means by which to ask them. 
