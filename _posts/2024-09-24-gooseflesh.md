@@ -25,45 +25,84 @@ It’s alright, I wanted to say. It’s okay to love the dead.
 --
 					
 That first night had been akin to being born. I burst into the world, a deluge of sound and color, time forever punctured by my presence. Even now, laid out on the embalming table, my body bloated to twice its original size, ankle disjoint from foot and hand separated from wrist, the memory brought with it a rush of unmitigated pleasure. 
+
 ‘Seven years,’ the coroner told the technician, as he stitched together the open folds of my abdomen, sealing the remaining organs back inside. ‘He got off easy, all things considered.’
+
 The fluorescent light over my head dimmed. 
+
 ‘He plea insanity?’ the technician asked. 
-‘Nope. Said he was in love.’		
+
+'Nah. Said he was in love.’	
+
 ‘They’re cremating her Thursday,’ the coroner continued, oblivious to my sudden warmth. ‘Folks down at Laurel Hill offered to do it pro bono.’ 
-‘Real real nice of them.’ 
+
+‘Real, real nice of them.’ 
+
 ‘Yup. And the prosecutor’s gonna scatter the ashes by Kenai.’ 
+
 I was lifted and transferred onto a steel dolly, the touches brisk and impersonal, nothing like the stranger’s. 
+
 ‘It’s things like this,’ the coroner said, ‘that really bring people together. Shows you we’re more alike than not.’ 
-Together they began to push me away, and the world once again receded into darkness. 
+
+Together they began to push me away, coolness and darkness washing over me in tandem, and the world once again receded from view. 
+
+
+--
 			
 						
-‘Oh, Adam,’ the girl said. ‘What have you done?’					
+‘Oh, Adam,’ the girl said. ‘What have you done?’	
+
 Daylight again; the hours bent and turned, rearranged themselves into more acute forms. She was standing in the doorway, long black hair braided down to her waist. Where she opened her mouth — a gap tooth. So many faces in one day, I thought. So much to recall.
 The stranger rolled over in bed, mushing his face deeper into the mattress. ‘Go away.’
-‘I would, but there’s a body.’		
-One eye blinked open. ‘Again?’		
+
+‘I would, but there’s a body.’	
+
+One eye blinked open. ‘Again?’	
+
 ‘See for yourself.’
+
 The stranger sat up then. The covers slipped down; a ribcage flashing through cotton. His eyes settled on mine, and something unnameable flickered across his face. 
+
 ‘She looks tired,’ he murmured. ‘Like she’s been awake this whole time.’	
-‘You need to put her back,’ the girl replied. 					
-He shook his head.				
-‘I’d just dig her up again.’			
+
+‘You need to put her back,’ the girl replied. 	
+
+He shook his head.	
+
+‘I’d just dig her up again.’	
+
 The girl closed her eyes. Her arms were bruised, varicose, and just then I realized how young she was. Twenty-five at most. It was likely that I had been dead for longer than she had ever lived. 	
+
 ‘There’s no happily ever after,’ she said. ‘Not with the dead. The body is going to decompose even faster out in the open. See her liver? The bugs are already having a field day. And the cops, soon enough.’	
+
 The stranger seemed to shrink then.	
+
 ‘I just wanted — ’ he stopped. ‘I just wanted.’
+
 The girl’s expression softened.
+
 ‘Wanting is okay,’ she told him. ‘It’s different from having.’ 
+
 The stranger looked up. ‘Give me a day,’ he said.
+
 A pause. 
+
 ‘An hour,’ he amended.
+
 She pressed her lips together, a razor mouth.
+
 ‘Please.’
+
 The curtains drifted again, the lace catching on my shoulder, glancing, tender. I missed this house already, this old new life. It was better this way, I reminded myself. There was no sense in becoming accustomed to happiness. 
 ‘I’m going to run to the store,’ the girl said. ‘Pick some things up for Dad.’ 
+
 The stranger let out a long breath. ‘Thank you.’
+
 She was tightening the strap of her purse. She was chewing on the inside of her mouth. She was holding herself carefully, as if bracing for impact, and then she said, ‘I do love you, you know.’ A breath. ‘Not enough, but I do.’ 
+
 And then she was gone again, an apparition — an almost.
+
+--
 
 
  When we were finally found, she appeared once again in the doorway. A different doorway, of course, one much farther north, cut from stripped oak and cobbled together with unsure hands. Beyond it lay virgin forest, a green so vivid as to be disturbing.
