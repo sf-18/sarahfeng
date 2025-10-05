@@ -24,7 +24,9 @@ The stranger took no notice, and hauled me up onto the blue-cushion rocking chai
 
 It’s alright, I wanted to say. It’s okay to love the dead.
 
+
 --					
+
 
 That first night had been akin to being born. I burst into the world, a deluge of sound and color, time forever punctured by my presence. Even now, laid out on the embalming table, my body bloated to twice its original size, ankle disjoint from foot and hand separated from wrist, the memory brought with it a rush of unmitigated pleasure. 
 
@@ -48,7 +50,9 @@ I was lifted and transferred onto a steel dolly, the touches brisk and impersona
 
 Together they began to push me away, the cold and the dark overcoming me in tandem, and the world once again receded from view. 
 
+
 --								
+
 
 ‘Oh, Adam,’ the girl said. ‘What have you done?’					
 
@@ -104,7 +108,9 @@ She was tightening the strap of her purse. She was chewing on the inside of her 
 
 And then she was gone again, an apparition — an almost.
 
+
 --
+
 
 When we were finally found, she appeared once again in the doorway. A different doorway, of course, one much farther north, cut from stripped oak and cobbled together with unsure hands. Beyond it lay virgin forest, a green so vivid as to be disturbing.
 
@@ -116,7 +122,9 @@ The girl’s eyes swept over the scene; when they took me in, she clapped a hand
 
 ‘I can’t bear to see what he’s done.’
 
+
 --						
+
 
 ‘Don’t mind Leah,’ the stranger said, the moment the front door closed. ‘It’s not you who’s bothering her. Just death.’ He leaned into the crook of my neck, inhaling deeply, and something like rapture passed over his face. 
 
@@ -144,7 +152,9 @@ He was interrupted by his phone going off, a tinny, uncomfortable frequency perm
 
 The mayfly fluttered out my ear canal, leaving behind the ghost of music.
 
+
 --
+
 
 I had never minded death, not the way some people did. Fearing it and grieving it, seeking out every possible way to delay it just a second longer. It was okay, to die. It was something we all did.
 
@@ -152,7 +162,9 @@ In life, I had been something of a materialist; an unbeliever. The kind who said
 
 If there was any meaning to this. If it was a lesson or verdict, reward or atonement — then it was utterly lost on me. I just settled myself as comfortably as I could in my casket, and allowed time to rush through me like wind between the oaks.
 
+
 --						
+
 
 I was deposited in the jump seat of his truck, a bouquet of drying lavenders stuffed between my hands. A once-white dress draped over the lower half of my body, disguising all signs of decay. As we drove, the fine silk lifted like sails in the wind, flapping against my clouded flesh. It was the softest thing I’d ever felt, the barely-there encountering what had once been.
 
@@ -186,7 +198,9 @@ I glanced down at the ring around my makeshift finger.
 
 I had not minded death, but there was something to be said for living.
 
+
 --					
+
 
 It was a routine inspection, the sheriff said, when he came to check out the grounds around the cabin. ‘We got some reports about unregulated fires around here,’ he explained. ‘People worried about the environment and all that.’ He sounded utterly unconcerned; conspiratorial, even.
 
@@ -224,7 +238,9 @@ For a moment, the stranger said nothing.
 
 The sheriff set down his clipboard, and sighed. ‘Well,’ he said, ‘Did you kill her?’
 
+
 --					
+
 
 ‘Can I tell you something?’ the stranger asked me, the night we were married. His hand —warm, dry, the thumbs still exceedingly opposable—rested upon the shattered remains of my hip, the crickets chirping like a pulse in the night.
 
@@ -242,7 +258,9 @@ Carefully, the stranger cupped his hand to the side of my face. His thumb came t
 
 In the darkness, he moved towards me. And for the first time since my death, maybe even before that, I was made whole by another person.				
 
+
 --						
+
 
 On what had to be Thursday, I was transferred into a wooden box, and shipped to the crematorium. The furnace awaited me, a three-hour process of combustion which would render my body into ash. Whether I would survive it, whether this meant freedom or annihilation or both, was another question entirely.
 
@@ -256,7 +274,9 @@ I caught one last glimpse of him, before they zipped the plastic over my skull. 
 
 It was difficult to tell, with the windows tinted blue and that old-fashioned handsomeness to distract me — but I thought his expression might have been one of relief.
 
+
 --
+
 					
 There is no sleep in death. But some nights, if you are lucky, past lives return and collect in you like rainwater. The night the stranger brought me home, I was flooded by memory. Oh, I had received small handfuls of the past before — debris of a time known as childhood, shrapnel lives I could have lived — but nothing like this. Discarded sunsets, unending roads. The true and all-consuming fear of dying without love.
 
@@ -264,7 +284,9 @@ Mostly, though, I remembered the end. The hospital facing the sea, the walls whi
 
 *One last time,* I remember thinking. *I want to see the world one last time.*
 
+
 --
+
 					
 It was all happening as it should have, dark and quiet beneath the ground. Beetles, iridescent and cunning, scurried along my legs, leaving bright shells in their wake. The roots of yet-to-be redwoods delighted in my organs. I had just gotten used to the larvae, inquisitive as they were. And then the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
 
