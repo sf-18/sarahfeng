@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  'gooseflesh'
+title:  'Gooseflesh'
 author: elizabeth zhiying feng
 category: writing
 medium: fiction
 ---
 
 		 	 	 							
-He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth. I was lolling around in the passenger seat, my ribs poking into my lungs. I had so many questions, and no means by which to ask them. 
+He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth. I was lolling around in the passenger seat, my ribs poking into my lungs. I had so many questions, and no means by which to ask them.
 The stranger was silent — frowning — his hands clenched tight around the steering wheel. The forest whipped past us, yielding on occasion to clearings of fireweed. I spotted an elk through the trees; the idea of a wolf.
 After a little while, we pulled over to the right, a gravel turnout leading into the trees. Eventually, a house. Modest and two-story and sifted by sourgrass, the door painted red. ‘For good luck,’ the stranger explained, fishing for his keys.
 I was set out on the porch. Mosquitoes visited my skin, abandoning me soon after. The flies had an easier time of it, cocooning in the soft lining of my stomach.
