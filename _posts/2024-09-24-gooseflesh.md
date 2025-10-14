@@ -179,17 +179,17 @@ Was this what it felt like, to be in love?
 
 We slowed. We came upon a cabin, unfinished. Around us the forest condensed; the branches hanging warm and gleeful in the air. From some harbor of memory, the names of trees struggled to surface. 
 
-The stranger collected a bundle of twigs from the forest floor; snapped them until they were roughly finger length, and slipped my ring over them. He clasped my left hand in his, whispered *Tell me if it hurts*, and stuck them into the remaining stub of flesh. The ends of the twigs poked at the knuckle, a few even reaching the soft, pale web between my fourth finger and my pinky.
+The stranger collected a bundle of twigs from the forest floor; snapped them until they were roughly finger length, and slipped my ring over them. *Tell me if it hurts*, he whispered, clasping my left hand, and stuck the twigs into the remaining stub of flesh. The ends poked at knuckle; one or two reached even the pale web between the ring finger and my pinky. 
 
 If it hurt, it was the kind of pain that registered as pleasure.
 
-The stranger produced a simple, nondescript golden band, and slid it onto his own finger. He held me as upright as he could, and looked deeply into the sockets of my eyes.				
+Next the stranger produced a simple, nondescript golden band, and slid it onto his own finger. He held me as upright as he could, and looked deeply into the sockets of my skull.				
 
-‘I believe in the soul,’ he said, the words were as sure as any vow. ‘I believe in the part of every living thing that can never be destroyed.’
+‘I believe in the soul,’ he said, the words as sure as any vow. ‘I believe in the part of every living thing that can never be destroyed.’
 
-In the afternoon light, dust motes drifting through air, he looked young, tenuous, and painfully alive. The heart in my chest, deflated and sagging, drained of all blood long ago, strained to beat once more.
+In the afternoon light, dust motes drifting through air, he looked young, tenuous, and painfully alive. The heart in my chest, deflated, sagging, and drained of all blood long ago, strained to beat once more.
 
-He leaned forward, and kissed me deftly, the taste moist and sweet. Where his mouth touched my skin, I burned. The sensation was like a brand, a memory, a thing that altered you once it occurred.
+He leaned forward, and kissed me deftly, the taste moist and sweet. Where his mouth touched my skin, I burned. The sensation was like a brand, a memory; a thing that altered you irreversibly once it occurred.
 
 ‘You don’t know how long I’ve wanted to do that,’ the stranger said. ‘You can hardly imagine.’
 
