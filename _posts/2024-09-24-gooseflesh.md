@@ -135,7 +135,7 @@ He returned with a navy box in his hands, compact velvet embossed in gold. It cr
 
 ‘It’s yours,’ the stranger said. ‘If you want it.’
 
-Up close, he smelled like citrus and detergent. He was bright and clean and new, so different from the coffin I had come from.
+Up close, he smelled like citrus and detergent. He was bright and clean and new, so different from the coffin I'd come from.
 
 How wonderful it would be, I thought, to live in you instead.
 
