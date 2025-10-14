@@ -99,11 +99,11 @@ She pressed her lips together, a razor mouth.
 
 ‘Please.’
 
-The curtains drifted again, the lace catching on my shoulder, glancing, tender. I missed this house already, this old new life. It was better this way, I reminded myself. There was no sense in becoming accustomed to happiness. 
+The curtains drifted again, the lace catching on my shoulder, glancing, tender. I missed this house already, this old new life. 
 
 ‘I’m going to run to the store,’ the girl said. ‘Pick some things up for Dad.’ 
 
-The stranger let out a long breath. ‘Thank you.’
+The stranger let out a breath. ‘Thank you.’
 
 She was tightening the strap of her purse. She was chewing on the inside of her mouth. She was holding herself carefully, as if bracing for impact, and then she said, ‘I do love you, you know.’ A breath. ‘Not enough, but I do.’ 
 
@@ -113,7 +113,7 @@ And then she was gone again, an apparition — an almost.
 --
 
 
-When we were finally found, she appeared once again in the doorway. A different doorway, of course, one much farther north, cut from stripped oak and cobbled together with unsure hands. Beyond it lay virgin forest, a green so vivid as to be disturbing.
+When we were finally found, she once again appeared in the doorway. A different doorway, of course, one much farther north, cut from stripped oak and cobbled together with unsure hands. Beyond it lay virgin forest, a green so vivid as to be disturbing.
 
 The police had sectioned me off with yellow tape, stickying various objects in the house with pastel tags. Robin blue for the freezer which the stranger had tucked me into during the afternoons, soft peach for the stretcher he’d carted me around in at night. If our home had possessed its own odd, lopsided beauty, so did its dissection.
 
