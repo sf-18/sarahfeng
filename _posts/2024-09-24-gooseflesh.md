@@ -7,13 +7,13 @@ medium: fiction
 img: "/assets/posts/alaska.jpg"
 ---
 
-He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth. I was lolling around in the passenger seat, my ribs poking into my lungs. I had so many questions, and no means by which to ask them. 
+He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth. I lolled in the passenger seat, my ribs irritating my lungs. I had so many questions, and no means by which to ask them. 
 
 The stranger was silent — frowning — his hands clenched tight around the steering wheel. The forest whipped past us, yielding on occasion to clearings of fireweed. I spotted an elk through the trees; the idea of a wolf.
 
-After a little while, we pulled over to the right, a gravel turnout leading into the trees. Eventually, a house. Modest and two-story and sifted by sourgrass, the door painted red. ‘For good luck,’ the stranger explained.
+We pulled over to the right, a gravel turnout leading into the trees. Eventually, a house. Modest and two-story and sifted by sourgrass, the door painted red. ‘For good luck,’ the stranger explained.
 
-I was set out on the porch. Mosquitoes visited my skin, abandoning me soon after. The flies had an easier time of it, cocooning in the soft lining of my stomach.
+I was set out on the porch. Mosquitoes kissed and abandoned me. The flies had an easier time of it, cocooning in the soft lining of my stomach.
 
 ‘This is yours,’ the stranger said, and lugged me feet first into a room on the second floor. The floors polished hardwood, the walls painted spring green. Along the windowsills, pasta jars and jam jars and beer bottles recycled into potting vases. Each one filled exactly halfway with still water, home to a different variety of plant. The windows, tall and screenless, were bracketed by white eyelet curtains, and when the wind blew they touched each other gently. I longed to press my face to them, the clean cotton scent.
 
