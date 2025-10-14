@@ -147,7 +147,7 @@ My ring finger was missing.
 
 ‘I could make a replica,’ the stranger said. ‘There’s an art supply store down by Kachemak Bay.’
 
-He was interrupted by his phone going off, a tinny, uncomfortable frequency permeating the room. He fished it out of his pocket, and whatever he saw on the screen caused him to frown and curse. Hurriedly he shut the ring back into the box — the colors disappeared from the walls, and I was bereft — and pocketed it.
+He was interrupted by the sound of his phone going off, a tinny, uncomfortable frequency, and whatever he saw on the screen caused him to frown and curse. Hurriedly he shut the ring back into the box — the colors disappeared from the walls, and I was bereft — and pocketed it.
 
 ‘We’ll go north,’ he decided. ‘You’ll last longer there.’
 
