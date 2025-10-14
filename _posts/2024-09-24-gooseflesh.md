@@ -47,7 +47,7 @@ The fluorescent light over my head dimmed.
 
 I was lifted and transferred onto a steel dolly, the touches brisk and impersonal, nothing like the stranger’s. 
 
-‘It’s things like this,’ the coroner said, ‘that really bring people together. Shows you we’re more alike than not.’ 
+‘It’s things like this,’ the coroner said, ‘that really bring people together.’ 
 
 Together they began to push me away, the cold and the dark overcoming me in tandem, and the world once again receded from view. 
 
