@@ -159,9 +159,9 @@ The mayfly fluttered out my ear canal, leaving behind the ghost of music.
 
 I had never minded death, not the way some people did. Fearing it and grieving it, seeking out every possible way to delay it just a second longer. It was okay, to die. It was something we all did.
 
-In life, I had been something of a materialist; an unbeliever. The kind who said, with a certainty bordering on arrogance: what we cannot observe, does not exist. I did not have a body, I used to say. I was a body. But I suppose God does what he will whether you believe in him or not. Seven days after my death, I blinked awake to the walls of the coffin, claustrophobia and the scent of earth.
+In life, I had been an unbeliever. The kind who said, with a certainty bordering on arrogance: what we cannot observe, does not exist. I did not have a body, I used to say. I was a body. But I suppose God does what he will whether you believe in him or not. Seven days after my death, I blinked awake to the walls of the coffin, claustrophobia and the scent of earth.
 
-If there was any meaning to this. If it was a lesson or verdict, reward or atonement — then it was utterly lost on me. I just settled myself as comfortably as I could in my casket, and allowed time to rush through me like wind between the oaks.
+If there was any meaning to this. If it was a lesson or verdict, reward or atonement — then it was lost on me. I just settled myself as comfortably as I could in my casket, and allowed time to rush through me like wind between the oaks.
 
 
 --						
