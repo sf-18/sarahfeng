@@ -203,11 +203,11 @@ I had not minded death, but there was something to be said for living.
 --					
 
 
-It was a routine inspection, the sheriff said, when he came to check out the grounds around the cabin. ‘We got some reports about unregulated fires around here,’ he explained. ‘People worried about the environment and all that.’ He sounded utterly unconcerned; conspiratorial, even.
+It was a routine inspection, the sheriff explained, when he came to check the cabin grounds. ‘We got some reports about unregulated fires. People fussin' about the environment and all that.’ He sounded utterly unconcerned; conspiratorial, even.
 
 ‘We’ve been living out here for months,’ the stranger said. ‘It’s bullshit.’
 
-The sheriff made a sympathetic noise, then paused. ‘Who’s we?’
+The sheriff made a sympathetic noise. ‘Who’s we?’
 
 ‘Me and my wife.’
 
