@@ -77,7 +77,7 @@ He shook his head.
 
 ‘I’d just dig her up again.’			
 
-The girl closed her eyes. Her arms were bruised, varicose, and just then I realized how young she was. Twenty-five at most. It was likely that I had been dead for longer than she had ever lived. 	
+The girl closed her eyes. Her arms were bruised, varicose; just then I realized how young she was. It was likely I had been dead for longer than she'd ever lived. 	
 
 ‘There’s no happily ever after,’ she said. ‘Not with the dead. The body is going to decompose even faster out in the open. See her liver? The bugs are already having a field day. And the cops, soon enough.’	
 
