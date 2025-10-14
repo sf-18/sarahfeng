@@ -289,11 +289,11 @@ Mostly, though, I remembered the end. The hospital facing the sea, the walls whi
 --
 
 					
-It was all happening as it should have, dark and quiet beneath the ground. Beetles, iridescent and cunning, scurried along my legs, leaving bright shells in their wake. The roots of yet-to-be redwoods delighted in my organs. I had just gotten used to the larvae, inquisitive as they were. And then the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
+It was all happening as it should have, dark and quiet beneath the ground. Beetles, iridescent and cunning, scurried along my legs, leaving wisps of shells in their wake. The roots of yet-to-be redwoods delighted in my organs. I had just gotten used to the larvae, inquisitive as they were. And then the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
 
 If I had eyes, I would have closed them. To see after so long was blinding.
 
-The stranger set down his shovel. Sweat dripped from his temples onto my body, leaving clean streaks amid the dirt. He shucked off his gloves. His hands were calloused, marked by crescent-shaped scars, but when they wrapped around my wrists they were warm.	
+The stranger set down his shovel. Sweat dripped from his temples onto my body, clean streaks amid the dirt. He shucked off his gloves. His hands were calloused, marked by crescent-shaped scars, but when they wrapped around my wrists they were warm.	
 
 His right arm hooked itself beneath my spine. His left gathered the remains of my knees. Tugging gently and steadily, stopping on occasion to recover a limb or adjust a lopsided foot, he reaped me from the earth. In the distance, a dark jagged line on the horizon — *mountains*, I remembered. The word was mountain and the meaning — uncertain for now.					
 
