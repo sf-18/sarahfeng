@@ -11,7 +11,7 @@ He was handsome, I discovered on the truck ride home. It was an old-fashioned ki
 
 The stranger was silent — frowning — his hands clenched tight around the steering wheel. The forest whipped past us, yielding on occasion to clearings of fireweed. I spotted an elk through the trees; the idea of a wolf.
 
-After a little while, we pulled over to the right, a gravel turnout leading into the trees. Eventually, a house. Modest and two-story and sifted by sourgrass, the door painted red. ‘For good luck,’ the stranger explained, fishing for his keys.
+After a little while, we pulled over to the right, a gravel turnout leading into the trees. Eventually, a house. Modest and two-story and sifted by sourgrass, the door painted red. ‘For good luck,’ the stranger explained.
 
 I was set out on the porch. Mosquitoes visited my skin, abandoning me soon after. The flies had an easier time of it, cocooning in the soft lining of my stomach.
 
