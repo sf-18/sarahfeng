@@ -127,7 +127,7 @@ The girl’s eyes swept over the scene; when they took me in, she clapped a hand
 --						
 
 
-‘Don’t mind Leah,’ the stranger said, the moment the front door closed. ‘It’s not you who’s bothering her. Just death.’ He leaned into the crook of my neck, inhaling deeply, and something like rapture passed over his face. 
+‘Don’t mind Leah,’ the stranger said, the moment the front door closed. ‘It’s not you who bothers her--just death.’ He leaned into the crook of my neck, inhaling deeply, and something like rapture passed over his face. 
 
 Abruptly, he spun around. Moments later I heard footsteps clunking down the stairs. Rummaging, a clatter on the floor. Shit, someone said. A mayfly flitted through my eye socket, drawn in by the smell.
 
