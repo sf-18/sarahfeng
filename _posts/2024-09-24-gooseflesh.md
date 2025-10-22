@@ -67,7 +67,7 @@ One eye blinked open. ‘Again?’
 
 ‘See for yourself.’
 
-The stranger sat up then. The covers slipped down, a ribcage flashed through cotton. His eyes settled on mine, and something undefended flickered across his face. 
+The stranger sat up then. The covers slipped down, a ribcage flashed through cotton. His eyes settled on mine, and something unguarded flickered across his face. 
 
 ‘She looks tired,’ he murmured. ‘Like she’s been awake this whole time.’	
 
@@ -77,7 +77,7 @@ He shook his head.
 
 ‘I’d just dig her up again.’			
 
-The girl closed her eyes. Her arms were bruised, varicose; just then I realized how young she was. It was likely I had been dead for longer than she'd ever lived. 	
+The girl closed her eyes. Her arms were bruised, varicose; just then I realized how young she was.
 
 ‘There’s no happily ever after,’ she said. ‘Not with the dead. The body is going to decompose even faster out in the open. See her liver? The bugs are already having a field day. And the cops, soon enough.’	
 
@@ -89,19 +89,19 @@ The girl’s expression softened.
 
 ‘Wanting is okay,’ she told him. ‘It’s different from having.’ 
 
-The stranger looked up. ‘Give me a day,’ he said.
+He looked up. ‘Give me a day,’ he said.
 
 A pause. 
 
 ‘An hour,’ he amended.
 
-She pressed her lips together, a razor mouth.
+She pressed her lips together, a razor of disproval. 
 
 ‘Please.’
 
 The curtains drifted again, the lace catching on my shoulder, glancing, tender. I missed this house already, this old new life. 
 
-‘I’m going to run to the store,’ the girl said. ‘Pick some things up for Dad.’ 
+‘I’m going to run to the store,’ the girl said finally. ‘Pick some things up for Dad.’ 
 
 The stranger let out a breath. ‘Thank you.’
 
