@@ -7,15 +7,15 @@ medium: fiction
 img: "/assets/posts/alaska.jpg"
 ---
 
-He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth. I lolled in the passenger seat, my ribs irritating my lungs. I had so many questions, and no means by which to ask them. 
+He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth. I lolled around the passenger seat, my ribs poking into my lungs. 
 
-The stranger was silent — frowning — his hands clenched tight around the steering wheel. The forest whipped past us, yielding on occasion to clearings of fireweed. I spotted an elk through the trees; the idea of a wolf.
+The stranger was silent — frowning — his hands clenched tight around the steering wheel. The forest whipped past us, yielding on occasion to clearings of fireweed. I spotted an elk through the trees; the idea of a wolf. I had so many questions, and no means by which to ask them. 
 
 We pulled over to the right, a gravel turnout leading into the trees. Eventually, a house. Modest and two-story and sifted by sourgrass, the door painted red. ‘For good luck,’ the stranger explained.
 
-I was set out on the porch. Mosquitoes kissed and abandoned me. The flies had an easier time of it, cocooning in the soft lining of my stomach.
+I was set out on the porch. Mosquitoes kissed and abandoned me. Heedless flies cocooned in the soft lining of my stomach.
 
-‘This is yours,’ the stranger said, and lugged me feet first into a room on the second floor. The floors polished hardwood, the walls painted spring green. Along the windowsills, pasta jars and jam jars and beer bottles recycled into potting vases. Each one filled exactly halfway with still water, home to a different variety of plant. The windows, tall and screenless, were bracketed by white eyelet curtains, and when the wind blew they touched each other gently. I longed to press my face to them, the clean cotton scent.
+‘This is yours,’ the stranger said, and lugged me feet first into a room on the second story. The floors were polished hardwood, the walls spring green. Along the windowsills, pasta jars and jam jars and beer bottles had been recycled into potting vases. Each one filled exactly halfway with still water, home to a different variety of plant. The windows, tall and screenless, were bracketed by white eyelet curtains, and when the wind blew they touched each other gently. I longed to press my face to them, the clean cotton scent.
 
 I had left a wet trail in my wake, the smell putrid and festering. Briefly, I was ashamed—how I discolored the living world.
 
@@ -29,11 +29,11 @@ It’s alright, I wanted to say. It’s okay to love the dead.
 --					
 
 
-That first night had been akin to being born. I burst into the world, a deluge of sound and color, time forever punctured by my presence. Even now, laid out on the embalming table, my body bloated to twice its original size, ankle disjoint from foot and hand separated from wrist, the memory brought with it a rush of unmitigated pleasure. 
+That first night had been akin to being born. I burst into the world, a deluge of sound and color, time forever punctured by my presence. Even now, laid out on the embalming table, the memory brought with it a rush of unmitigated pleasure. 
 
 ‘Seven years,’ the coroner told the technician, as he stitched together the open folds of my abdomen, sealing the remaining organs back inside. ‘He got off easy, all things considered.’
 
-The fluorescent light over my head dimmed. 
+The fluorescent light over my head dimmed. My body was bloated to twice its original size, ankle disjoint from foot, hand severed from wrist.
 
 ‘He plea insanity?’ the technician asked. 
 
@@ -45,11 +45,11 @@ The fluorescent light over my head dimmed.
 
 ‘Yup. And the prosecutor’s gonna scatter the ashes by Kenai.’ 
 
-I was lifted and transferred onto a steel dolly, the touches brisk and impersonal, nothing like the stranger’s. 
+I was lifted and transferred onto a steel dolly, the touches brisk and impersonal, nothing like the stranger’s.
 
 ‘It’s things like this,’ the coroner said, ‘that really bring people together.’ 
 
-Together they began to push me away, the cold and the dark overcoming me in tandem, and the world once again receded from view. 
+Together they began to push me away, coldness and darkness descending, and the world once again receded from view. 
 
 
 --								
@@ -57,7 +57,7 @@ Together they began to push me away, the cold and the dark overcoming me in tand
 
 ‘Oh, Adam,’ the girl said. ‘What have you done?’					
 
-Daylight again; the hours bent and turned, rearranged themselves into more acute forms. She was standing in the doorway, long black hair braided down to her waist. Where she opened her mouth — a gap tooth. So many faces in one day, I thought. So much to recall.
+Daylight again; the hours bent and turned, rearranging themselves into more acute forms. She was standing in the doorway, long black hair braided down to her waist. Where she opened her mouth — a gap tooth. So many faces in one day, I thought. So much to recall.
 
 The stranger rolled over in bed, mushing his face deeper into the mattress. ‘Go away.’
 
@@ -67,7 +67,7 @@ One eye blinked open. ‘Again?’
 
 ‘See for yourself.’
 
-The stranger sat up then. The covers slipped down; a ribcage flashing through cotton. His eyes settled on mine, and something unnameable flickered across his face. 
+The stranger sat up then. The covers slipped down, a ribcage flashed through cotton. His eyes settled on mine, and something undefended flickered across his face. 
 
 ‘She looks tired,’ he murmured. ‘Like she’s been awake this whole time.’	
 
