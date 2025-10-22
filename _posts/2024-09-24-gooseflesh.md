@@ -33,7 +33,7 @@ That first night had been akin to being born. I burst into the world, a deluge o
 
 ‘Seven years,’ the coroner told the technician, as he stitched together the open folds of my abdomen, sealing the remaining organs back inside. ‘He got off easy, all things considered.’
 
-The fluorescent light over my head dimmed. My body was bloated to twice its original size, ankle disjoint from foot, hand severed from wrist.
+The fluorescent light over my head dimmed. My body had been bloated to twice its original size, ankle disjoint from foot, hand severed from wrist.
 
 ‘He plea insanity?’ the technician asked. 
 
