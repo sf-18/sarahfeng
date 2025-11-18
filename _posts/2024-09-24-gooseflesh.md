@@ -278,7 +278,7 @@ It was difficult to tell, what with the windows tinted blue, and that old-fashio
 --
 
 					
-There is no sleep in death. But some nights, if you are lucky, past lives return and collect in you like rainwater. The night the stranger brought me home, I was flooded by memory. Oh, I had received small handfuls of the past before — debris of a time known as childhood, shrapnel lives I could have lived — but nothing like this. Discarded sunsets, unending roads. The true and all-consuming fear of dying without love.
+There is no sleep in death. But some nights, if you are lucky, past lives return and collect in you like rainwater. The night the stranger brought me home, I was gifted a flood. Oh, I had received small handfuls of the past before — debris of a time known as childhood, shrapnel lives I could have lived — but nothing like this. Discarded sunsets, unending roads. The true and all-consuming fear of dying without love.
 
 Mostly, though, I remembered the end. The hospital facing the sea, the walls white as honey. Nurses panicking and doing their best not to show it. The doctor panicking and making this widely known. I knew, then, that it was coming. Despite the lime tint of morphine, and the pain splitting apart my center, I struggled to open my eyes. 
 
@@ -288,9 +288,9 @@ Mostly, though, I remembered the end. The hospital facing the sea, the walls whi
 --
 
 					
-It was all happening as it should have, dark and quiet beneath the ground. Beetles, iridescent and cunning, scurried along my legs, leaving wisps of shells in their wake. The roots of yet-to-be redwoods delighted in my organs. I had just gotten used to the larvae, inquisitive as they were. And then the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
+It was dark and quiet beneath the ground. Beetles, iridescent and cunning, traversed my bones, and the roots of yet-to-be redwoods delighted in my organs. I'd just gotten used to the larvae, inquisitive as they were, when the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
 
-If I had eyes, I would have closed them. To see after so long was blinding.
+To see after so long was blinding.
 
 The stranger set down his shovel. Sweat dripped from his temples onto my body, clean streaks amid the dirt. He shucked off his gloves. His hands were calloused, marked by crescent-shaped scars, but when they wrapped around my wrists they were warm.	
 
