@@ -186,7 +186,7 @@ Next the stranger produced a simple, nondescript golden band, and slid it onto h
 
 ‘I believe in the soul,’ he said, the words as sure as any vow. ‘I believe in the part of every living thing that can never be destroyed.’
 
-In the afternoon light, dust motes drifting through air, he looked young, tenuous, and painfully alive. The heart in my chest, deflated, sagging, and drained of all blood long ago, strained to beat once more.
+In the afternoon light, dust motes drifting through air, he looked young, tenuous, and painfully alive. The heart in my chest, deflated and sagging, strained to beat once more.
 
 He leaned forward, and kissed me deftly, the taste moist and sweet. Where his mouth touched my skin, I burned. The sensation was like a brand, a memory; a thing that altered you irreversibly once it occurred.
 
