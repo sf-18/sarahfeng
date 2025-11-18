@@ -262,7 +262,7 @@ He moved towards me in the darkness, and for the first time since my death, I ra
 --						
 
 
-On what had to be Thursday, I was transferred into a wooden box, and shipped to the crematorium. The furnace awaited me, a three-hour process of combustion which would render my body into ash. Whether I would survive it, whether this meant freedom or annihilation or both, was another question entirely.
+On what had to be Thursday, I was transferred to a wooden box and shipped to the crematorium. The furnace awaited me, a three-hour process of combustion which would render my body into ash. Whether I would survive it, whether this meant freedom or annihilation or both, was another question entirely.
 
 *Just don’t let it hurt*, I thought, as the box began to slide into the oven. The engines firing, the anticipation of heat. *Whatever comes after this, I just don’t want it to hurt.*
 
