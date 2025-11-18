@@ -202,7 +202,7 @@ I had not minded death, I thought, but there was something to be said for living
 --					
 
 
-It was a routine inspection, the sheriff explained, when he came to check the cabin grounds. ‘We got some reports about unregulated fires. People fussin' about the environment and all that.’ He sounded utterly unconcerned; conspiratorial, even.
+It was a routine inspection, the sheriff explained. ‘We got some reports about unregulated fires. People fussin' about the environment and all that.’ He sounded utterly unconcerned; conspiratorial, even.
 
 ‘We’ve been living out here for months,’ the stranger said. ‘It’s bullshit.’
 
