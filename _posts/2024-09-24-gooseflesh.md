@@ -188,7 +188,7 @@ Next the stranger produced a simple, nondescript golden band, and slid it onto h
 
 In the afternoon light, dust motes drifting through air, he looked young, tenuous, and painfully alive. The heart in my chest, deflated and sagging, strained to beat once more.
 
-He leaned forward, and kissed me deftly, the taste moist and sweet. Where his mouth touched my skin, I burned. The sensation was like a brand, a memory; a thing that altered you irreversibly once it occurred.
+He leaned forward to kiss me deftly, the taste moist and sweet. Where his mouth touched my skin, I burned. The sensation was like a brand, a memory; a thing that altered you irreversibly once it occurred.
 
 ‘You don’t know how long I’ve wanted to do that,’ the stranger said. ‘You can hardly imagine.’
 
