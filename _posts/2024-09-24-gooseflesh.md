@@ -298,7 +298,7 @@ His right arm hooked itself beneath my spine. His left gathered my pulverized kn
 
 In the distance, a dark jagged line on the horizon — *mountains*, I remembered. The word was mountain and the meaning — uncertain for now.					
 
-The stranger collected my skull, and hung it artlessly onto my neck. There was a large crack in my pelvis, and I was missing the fourth finger of my left hand. My flesh, the texture of soap, left dark stains on his clothes. 
+The stranger collected my skull, and hung it artlessly onto my neck. There was a large crack in my pelvis, I was missing the fourth finger of my left hand. My flesh, the texture of soap, left dark stains on his clothes. 
 
 I was more whole than I’d been in a long time. 
 
