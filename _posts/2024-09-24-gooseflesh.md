@@ -196,7 +196,7 @@ His lips were covered in a foamy, fetid substance, about the color and texture o
 
 I glanced down at the ring around my makeshift finger. 
 
-I had not minded death, but there was something to be said for living.
+I had not minded death, I thought, but there was something to be said for living.
 
 
 --					
