@@ -228,7 +228,7 @@ Most of me was listening to this from the floor of the truck, where the stranger
 
 ‘None living.’ 
 
-‘Too bad. Good ones are always taken, that’s how it goes — ’ he broke off suddenly, a sharp intake of breath.				
+‘Too bad. Good ones are always taken, that’s how it goes — ’ he broke off suddenly.				
 
 ‘Now, brother,’ the sheriff said. ‘Don’t tell me that’s a body in your backseat.’
 
