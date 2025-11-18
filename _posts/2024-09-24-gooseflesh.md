@@ -288,7 +288,7 @@ Mostly, though, I remembered the end. The hospital facing the sea, the walls whi
 --
 
 					
-It was dark and quiet beneath the ground. Beetles, iridescent and cunning, traversed my bones, and the roots of yet-to-be redwoods delighted in my organs. I'd just gotten used to the larvae, inquisitive as they were, when the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
+It was all happening as it should have, dark and quiet beneath the ground. Beetles, iridescent and cunning, traversed my bones, and the roots of yet-to-be redwoods delighted in my organs. I'd just gotten used to the larvae, inquisitive as they were, when the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
 
 To see after so long was blinding.
 
