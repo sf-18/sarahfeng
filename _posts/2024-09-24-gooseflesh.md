@@ -294,7 +294,7 @@ To see after so long was blinding.
 
 The stranger set down his shovel. Sweat dripped from his temples onto my body, clean streaks amid the dirt. He shucked off his gloves. His hands were calloused, marked by crescent-shaped scars, but when they wrapped around my wrists they were warm.	
 
-His right arm hooked beneath my spine, his left gathered my pulverized knees. Tugging gently, stopping on occasion to recover a limb or adjust a lopsided foot, he reaped me from the earth. 
+His right arm hooked itself beneath my spine. His left gathered my pulverized knees. Tugging gently, stopping on occasion to recover a limb or adjust a lopsided foot, he reaped me from the earth. 
 
 In the distance, a dark jagged line on the horizon — *mountains*, I remembered. The word was mountain and the meaning — uncertain for now.					
 
