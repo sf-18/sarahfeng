@@ -288,15 +288,17 @@ Mostly, though, I remembered the end. The hospital facing the sea, the walls whi
 --
 
 					
-It was all happening as it should have, dark and quiet beneath the ground. Beetles, iridescent and cunning, traversed my bones, and the roots of yet-to-be redwoods delighted in my organs. I'd just gotten used to the larvae, inquisitive as they were, when the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
+It was all happening as it should have, dark and quiet beneath the ground. Iridescent beetles traversed my bones and the roots of yet-to-be redwoods delighted in my organs. I'd just gotten used to the larvae, inquisitive as they were, when the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
 
 To see after so long was blinding.
 
 The stranger set down his shovel. Sweat dripped from his temples onto my body, clean streaks amid the dirt. He shucked off his gloves. His hands were calloused, marked by crescent-shaped scars, but when they wrapped around my wrists they were warm.	
 
-His right arm hooked itself beneath my spine. His left gathered the remains of my knees. Tugging gently and steadily, stopping on occasion to recover a limb or adjust a lopsided foot, he reaped me from the earth. In the distance, a dark jagged line on the horizon — *mountains*, I remembered. The word was mountain and the meaning — uncertain for now.					
+His right arm hooked beneath my spine, his left gathered my pulverized knees. Tugging gently, stopping on occasion to recover a limb or adjust a lopsided foot, he reaped me from the earth. 
 
-The stranger collected my skull, and hooked it artlessly onto the remnants of my neck. It hung slightly askew, not quite comfortable. There was a large crack in my pelvis, I was missing the fourth finger of my left hand. My flesh, the texture of soap, left dark stains on his clothes. 
+In the distance, a dark jagged line on the horizon — *mountains*, I remembered. The word was mountain and the meaning — uncertain for now.					
+
+The stranger collected my skull, and hung it artlessly onto my neck. There was a large crack in my pelvis, and I was missing the fourth finger of my left hand. My flesh, the texture of soap, left dark stains on his clothes. 
 
 I was more whole than I’d been in a long time. 
 
