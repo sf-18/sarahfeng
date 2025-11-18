@@ -7,21 +7,22 @@ medium: fiction
 img: "/assets/posts/alaska.jpg"
 ---
 
-He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth. I lolled around the passenger seat, my ribs poking into my lungs. 
+He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth.
 
-The stranger was silent — frowning — his hands clenched tight around the steering wheel. The forest whipped past us, yielding on occasion to clearings of fireweed. I spotted an elk through the trees; the idea of a wolf. I had so many questions, and no means by which to ask them. 
+The stranger was silent — frowning — his hands clenched tight around the steering wheel. The forest whipped past us, yielding on occasion to fireweed clearings. I spotted an elk through the trees; the idea of a wolf. I had so many questions, and no means by which to ask them. 
 
 We pulled over to the right, a gravel turnout leading into the trees. Eventually, a house. Modest and two-story and sifted by sourgrass, the door painted red. ‘For good luck,’ the stranger explained.
 
-I was set out on the porch. Mosquitoes kissed and abandoned me. Heedless flies cocooned in the soft lining of my stomach.
+I was set out on the porch. Mosquitoes kissed and abandoned me.
 
-‘This is yours,’ the stranger said, and lugged me feet first into a room on the second story. The floors were polished hardwood, the walls spring green. Along the windowsills, pasta jars and jam jars and beer bottles had been recycled into potting vases. Each one filled exactly halfway with still water, home to a different variety of plant. The windows, tall and screenless, were bracketed by white eyelet curtains, and when the wind blew they touched each other gently. I longed to press my face to them, the clean cotton scent.
+‘This is yours,’ the stranger said, and lugged me feet first into a room on the second story. The floors were polished hardwood, the walls spring green. Along the windowsills, pasta jars and jam jars and beer bottles, each one filled exactly halfway with still water, home to a different variety of plant. The windows, tall and screenless, were bracketed by white eyelet curtains, and when the wind blew they touched each other gently. I longed to press my face to them, the clean cotton scent.
 
-I had left a wet trail in my wake, the smell putrid and festering. Briefly, I was ashamed—how I discolored the living world.
+I had left a wet trail in my wake, the smell putrid and festering. 
+Briefly, I was ashamed—how I discolored the living world.
 
 The stranger took no notice, and hauled me up onto the blue-cushion rocking chair.			
 
-‘There,’ he said, placing my left hand just above my ribcage, covering the abscess. Then he sat on the footstool across from me and just looked, looked so long that I grew self conscious. I wanted to tuck back my hair—long since turned to dust—or otherwise turn my cheek—maggot fodder by now. The stranger’s lip trembled. His hand reached out, then snatched itself back. To my consternation, he began to cry.	
+‘There,’ he said, placing my left hand above the abscess. He sat on the footstool across from me and simply looked, looked so long that I grew self conscious. I wanted to tuck back my hair—long since turned to dust—or otherwise turn my cheek—maggot fodder by now. The stranger’s lip trembled. His hand reached out, then snatched itself back. To my consternation, he began to cry.	
 
 It’s alright, I wanted to say. It’s okay to love the dead.
 
@@ -71,15 +72,15 @@ The stranger sat up then. The covers slipped down, a ribcage flashed through cot
 
 ‘She looks tired,’ he murmured. ‘Like she’s been awake this whole time.’	
 
-‘You need to put her back,’ the girl replied. 					
+‘You need to put her back,’ the girl said. 					
 
 He shook his head.				
 
 ‘I’d just dig her up again.’			
 
-The girl closed her eyes. Her arms were bruised, varicose; just then I realized how young she was.
+She closed her eyes. Her arms were bruised, varicose; just then I realized how young she was.
 
-‘There’s no happily ever after,’ she said. ‘Not with the dead. The body is going to decompose even faster out in the open. See her liver? The bugs are already having a field day. And the cops, soon enough.’	
+‘There’s no happily ever after,’ she said. ‘Not with the dead. The body will decompose even faster out in the open. See her liver? The bugs are already having a field day. And the cops, soon enough.’	
 
 The stranger seemed to shrink then.	
 
@@ -95,11 +96,11 @@ A pause.
 
 ‘An hour,’ he amended.
 
-She pressed her lips together, a razor of disproval. 
+She pressed her lips together, a disapproving blade. 
 
 ‘Please.’
 
-The curtains drifted again, the lace catching on my shoulder, glancing, tender. I missed this house already, this old new life. 
+The curtains drifted again. I missed this house already, this old new life. 
 
 ‘I’m going to run to the store,’ the girl said finally. ‘Pick some things up for Dad.’ 
 
@@ -113,15 +114,13 @@ And then she was gone again, an apparition — an almost.
 --
 
 
-When we were finally found, she once again appeared in the doorway. A different doorway, of course, one much farther north, cut from stripped oak and cobbled together with unsure hands. Beyond it lay virgin forest, a green so vivid as to be disturbing.
+When we were finally found, she once again appeared in a doorway. One much farther north, cut from stripped oak and cobbled together with unsure hands. Beyond it lay virgin forest, a green so vivid as to be disturbing.
 
-The police had sectioned me off with yellow tape, stickying various objects in the house with pastel tags. Robin blue for the freezer which the stranger had tucked me into during the afternoons, soft peach for the stretcher he’d carted me around in at night. If our home had possessed its own odd, lopsided beauty, so did its dissection.
+The police had sectioned me off with yellow tape, stickying various objects in the house with pastel tags. Robin blue for the freezer the stranger had tucked me into during solemn afternoons, soft peach for the stretcher he’d carted me around in on disobedient nights. If our home had possessed its own odd, lopsided beauty, so did its dissection.
 
-The girl’s eyes swept over the scene; when they took me in, she clapped a hand over her mouth and said, Oh, God. She doubled over, convulsing slightly, and I watched with both concern and fascination as a thin film of bile came dripping out of her mouth.			
+The girl’s eyes swept over the scene. When they took me in, she clapped a hand over her mouth and said, Oh, God. She doubled over, convulsing slightly, and I watched with both concern and fascination as a thin film of bile came dripping out of her mouth.			
 
-‘Please, take it away,’ she said. The lead investigator, putting a gentle hand on her arm. 
-
-‘I can’t bear to see what he’s done.’
+‘Please, take it away,’ she said. ‘I can’t bear to see what he’s done.’
 
 
 --						
@@ -129,25 +128,25 @@ The girl’s eyes swept over the scene; when they took me in, she clapped a hand
 
 ‘Don’t mind Leah,’ the stranger said, the moment the front door closed. ‘It’s not you who bothers her--just death.’ He leaned into the crook of my neck, inhaling deeply, and something like rapture passed over his face. 
 
-Abruptly, he spun around. Moments later I heard footsteps clunking down the stairs. Rummaging, a clatter on the floor. Shit, someone said. A mayfly flitted through my eye socket, drawn in by the smell.
+Moments later I heard his footsteps clunking down the stairs. Rummaging, a clatter on the floor. Shit, someone said. A mayfly flitted through my eye socket, drawn in by the smell.
 
-He returned with a navy box in his hands, compact velvet embossed in gold. It cracked open to reveal a ring: a platinum band, a sparkling, Asscher-cut diamond. Sunlight refracted through the stone, illuminating the room with impossible bands of color. I was enchanted – oh, more than enchanted – I could have had a soul.
+He returned with a navy box in his hands, compact velvet embossed in gold. It opened to reveal a ring: a platinum band, a sparkling, Asscher-cut diamond. Sunlight refracted through the stone, illuminating the room with impossible bands of color. I was enchanted – oh, more than enchanted – I could have had a soul.
 
 ‘It’s yours,’ the stranger said. ‘If you want it.’
 
-Up close, he smelled like citrus and detergent. He was bright and clean and new, so different from the coffin I'd come from.
+Up close, he smelled like citrus and just-folded cotton, a compendium of the bright and clean and new. He was the coffin's opposite. 
 
 How wonderful it would be, I thought, to live in you instead.
 
-He knelt, and with trembling fingers, gathered my left hand in his. Then he looked down. 
+The stranger knelt. With trembling fingers, he gathered my left hand in his. 
 
-‘Oh,’ he said.
+‘Oh,’ he said, upon looking down. 
 
 My ring finger was missing. 
 
-‘I could make a replica,’ the stranger said. ‘There’s an art supply store down by Kachemak Bay.’
+‘I can make a replica,' he rushed to reassure me. 'There’s an art supply store down by Kachemak Bay.’
 
-He was interrupted by the sound of his phone going off, a tinny, uncomfortable frequency, and whatever he saw on the screen caused him to frown and curse. Hurriedly he shut the ring back into the box — the colors disappeared from the walls, and I was bereft — and pocketed it.
+He was interrupted by the sound of his phone going off; whatever he saw on the screen caused him to frown and curse. Hurriedly he shut the ring back into the box — the colors disappeared from the walls, and I was bereft — and pocketed it.
 
 ‘We’ll go north,’ he decided. ‘You’ll last longer there.’
 
@@ -159,7 +158,7 @@ The mayfly fluttered out my ear canal, leaving behind the ghost of music.
 
 I had never minded death, not the way some people did. Fearing it and grieving it, seeking out every possible way to delay it just a second longer. It was okay, to die. It was something we all did.
 
-In life, I had been an unbeliever. The kind who said, with a certainty bordering on arrogance: what we cannot observe, does not exist. I did not have a body, I used to say. I was a body. But I suppose God does what he will whether you believe in him or not. Seven days after my death, I blinked awake to the walls of the coffin, claustrophobia and the scent of earth.
+In life, I had been an unbeliever. The kind who said, with a certainty bordering on arrogance: what we cannot observe, does not exist. I did not have a body, I used to say. I was a body. But I suppose God does what he will whether you believe in him or not. Seven days after my death, I blinked awake to the walls of the coffin, claustrophobia and the scent of rotting earth.
 
 If there was any meaning to this. If it was a lesson or verdict, reward or atonement — then it was lost on me. I just settled myself as comfortably as I could in my casket, and allowed time to rush through me like wind between the oaks.
 
@@ -167,9 +166,9 @@ If there was any meaning to this. If it was a lesson or verdict, reward or atone
 --						
 
 
-I was deposited in the jump seat of his truck, a bouquet of drying lavenders stuffed between my hands. A once-white dress draped over the lower half of my body, disguising all signs of decay. As we drove, the fine silk lifted like sails in the wind, flapping against my clouded flesh. It was the softest thing I’d ever felt, the barely-there encountering what had once been.
+In the jump seat of his truck, a bouquet of withered lavender was stuffed between my hands. He had draped a once-white dress over the lower half of my body, disguising all signs of decay. As we drove, the fine silk lifted like sails in the wind, flapping against my clouded flesh. It was the softest thing I’d ever felt, the barely-there encountering what had once been.
 
-The speedometer ticked up in steady increments of five. The landscape blurred into one continuous streak of blue-green, the mountains indistinguishable from the forest, the sky from the sea. 
+The speedometer ticked up in steady increments of five. The landscape blurred into one continuous streak, the mountains indistinguishable from the forest, the sky inseparable from the sea. 
 
 *Slow down,* I wanted to say. *I am still new here.*
 
