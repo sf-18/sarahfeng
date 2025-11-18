@@ -172,7 +172,7 @@ The speedometer ticked up in steady increments of five. The landscape blurred in
 
 *Slow down,* I wanted to say. *I am still new here.*
 
-The stranger glanced back in the mirror, his face cracking into a limpid smile. My own face was no longer capable of expression, the muscles cut slack at the moment of death, but I was seized by the desire to smile back at him.
+The stranger glanced back in the mirror, his face cracking into a limpid smile. My own face was no longer capable of expression, but I was seized by the desire to smile back at him.
 
 Was this what it felt like, to be in love?
 
