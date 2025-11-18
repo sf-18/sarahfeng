@@ -256,7 +256,7 @@ Carefully, the stranger cupped his hand to the side of my face. His thumb came t
 
 ‘I just couldn’t bear to think of you alone down there.’				
 
-In the darkness, he moved towards me. And for the first time since my death, I ran with living blood. 			
+He moved towards me in the darkness, and for the first time since my death, I ran with living blood. 			
 
 
 --						
