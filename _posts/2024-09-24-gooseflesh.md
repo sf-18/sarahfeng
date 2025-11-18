@@ -178,7 +178,7 @@ Was this what it felt like, to be in love?
 
 We slowed. We came upon a cabin, unfinished. Around us the forest condensed; the branches hanging warm and gleeful in the air. From some harbor of memory, the names of trees struggled to surface. 
 
-The stranger collected a bundle of twigs from the forest floor; snapped them until they were roughly finger length, and slipped my ring over them. *Tell me if it hurts*, he whispered, clasping my left hand, and stuck the twigs into the remaining stub of flesh. The ends poked at knuckle; one or two reached even the pale web between the ring finger and my pinky. 
+From the forest floor the stranger collected a bundle of mismatched twigs, snapped them to roughly finger length, and slipped my ring over them. Then he clasped the remnants of my left hand. *Tell me if it hurts*, he whispered, and stuck the wooden bundle into the lingering stub of flesh. The ends poked at knuckle; one or two reached even the pale web between the ring finger and my pinky. 
 
 If it hurt, it was the kind of pain that registered as pleasure.
 
