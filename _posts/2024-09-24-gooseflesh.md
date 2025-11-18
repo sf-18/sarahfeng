@@ -210,11 +210,11 @@ The sheriff made a sympathetic noise. ‘Who’s we?’
 
 ‘Me and my wife.’
 
-‘Not a lot of girls who’d move into the backcountry.’
+‘Not a lot of girls who can hack it in the backcountry.’
 
 ‘Not a lot of girls like her.’ 					
 
-Most of me was listening to this from the floor of the truck, where the stranger had stowed me unceremoniously as soon as he’d spotted the blue-striped SUV on the service road. He'd grabbed what he could, but forgotten a forearm in the cabin, and I was struggling with my incompleteness. My skull had ended up squashed facedown, so I could see nothing but black. It smelled of rubber down here, mint gum and absinthe.
+Most of me was listening to this from the floor of the truck, where the stranger had shoved me unceremoniously as soon as he’d spotted the blue-striped SUV on the service road. He'd grabbed what he could, but forgotten a forearm in the cabin, and I was struggling with my incompleteness. My skull had ended up squashed facedown, so I could see nothing but black. It smelled of rubber down here, mint gum and absinthe.
 
 ‘So I’m just gonna fill out the form, say I checked out the cabin and — ’ the sheriff’s voice was growing closer, ‘—the surrounding area, Christ, man, it smells like something died in here.’
 
