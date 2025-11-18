@@ -270,9 +270,9 @@ In the instant before the flames engulfed me, I thought of the stranger.
 
 Something in him had been extinguished, when the officers broke down our door. He was mute as they yanked him into handcuffs, almost willing as they pushed him into the dirt. 
 
-I caught one last glimpse of him, before they zipped the plastic over my skull. Hunched over in the back of the police car, the rise and fall of his chest the only proof he remained living.
+I caught one last glimpse of him, before they zipped the plastic over my skull. Hunched over in the back of the police car, the rise and fall of his chest the only proof he was alive.
 
-It was difficult to tell, with the windows tinted blue and that old-fashioned handsomeness to distract me — but I thought his expression might have been one of relief.
+It was difficult to tell, what with the windows tinted blue, and that old-fashioned handsomeness to distract me — but I thought his expression might have been one of relief.
 
 
 --
