@@ -250,7 +250,7 @@ I was lying on the woolen rug, admiring the slanted alpine roof above us. I was 
 
 ‘I’m going to hell,’ he admitted. ‘I don’t want to, but I am.’
 
-Hell is just a story men tell, I wanted to reassure him. But I couldn’t be sure; I’d never made it that far. Death was a vast universe; a final kingdom; and I had only ever brushed against the edges of it. Of what came after, I knew as much — as little — as he did.
+Hell is just a story men tell, I wanted to reassure him. But I’d never made it that far. Death was a vast universe; a final kingdom; and I had only ever brushed against the edges of it. Of what came after, I knew as much — as little — as he did.
 
 Carefully, the stranger cupped his hand to the side of my face. His thumb came to rest just over the opening where my mouth had been, pressing gently on the shriveled flesh.
 
