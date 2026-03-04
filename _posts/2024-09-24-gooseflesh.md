@@ -9,7 +9,7 @@ img: "/assets/posts/alaska.jpg"
 
 He was handsome, I discovered on the truck ride home. It was an old-fashioned kind of handsomeness, those dark brows furrowed tight, a meanness implicit in the set of his mouth.
 
-The stranger was silent — frowning — his hands clenched tight around the steering wheel. The forest whipped past us, yielding on occasion to fireweed clearings. I spotted an elk through the trees; the idea of a wolf. I had so many questions, and no means by which to ask them. 
+The stranger was silent — frowning — his hands clenched tight around the steering wheel. The forest whipped past us, yielding on occasion to clearings of fireweed. I spotted an elk through the trees; the idea of a wolf. I had so many questions, and no means by which to ask them. 
 
 We pulled over to the right, a gravel turnout leading into the trees. Eventually, a house. Modest and two-story and sifted by sourgrass, the door painted red. ‘For good luck,’ the stranger explained.
 
@@ -70,7 +70,7 @@ One eye blinked open. ‘Again?’
 
 The stranger sat up then. The covers slipped down, a ribcage flashed through cotton. His eyes settled on mine, and something unguarded flickered across his face. 
 
-‘She looks tired,’ he murmured. ‘Like she’s been awake this whole time.’	
+‘She looks tired,’ he murmured. 
 
 ‘You need to put her back,’ the girl said. 					
 
