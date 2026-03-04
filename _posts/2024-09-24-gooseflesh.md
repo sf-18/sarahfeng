@@ -242,7 +242,7 @@ The sheriff set down his clipboard, and sighed. ‘Well,’ he said, ‘Did you 
 --					
 
 
-‘Can I tell you something?’ The stranger asked me this on our wedding night. His hand—warm, dry, the thumbs still exceedingly opposable—rested upon my shattered hip, the crickets chirping like a pulse in the night.
+‘Can I tell you something?’ The stranger asked, on our wedding night. His hand—warm, dry, the thumbs still exceedingly opposable—rested upon my shattered hip, the crickets chirping like a pulse in the night.
 
 ‘I know it’s wrong.’
 
