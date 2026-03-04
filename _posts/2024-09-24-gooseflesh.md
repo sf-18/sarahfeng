@@ -166,7 +166,7 @@ If there was any meaning to this. If it was a lesson or verdict, reward or atone
 --						
 
 
-In the jump seat of his truck, a bouquet of withered lavender was stuffed between my hands. He had draped a once-white dress over the lower half of my body, disguising all signs of decay. As we drove, the fine silk lifted like sails in the wind, flapping against my clouded flesh. It was the softest thing I’d ever felt, the barely-there encountering what had once been.
+In the jump seat of his truck, a bouquet of withered lavender was stuffed between my hands. He had draped a once-white dress over the lower half of my body. As we drove, the fine silk lifted like sails in the wind, flapping against my clouded flesh. It was the softest thing I’d ever felt, the barely-there encountering what had once been.
 
 The speedometer ticked up in steady increments of five. The landscape blurred into one continuous streak, the mountains indistinguishable from the forest, the sky inseparable from the sea. 
 
