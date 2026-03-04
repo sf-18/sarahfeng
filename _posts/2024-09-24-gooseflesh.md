@@ -280,7 +280,7 @@ It was difficult to tell, what with the windows tinted blue, and that old-fashio
 					
 There is no sleep in death. But some nights, if you are lucky, past lives return and collect in you like rainwater. The night the stranger brought me home, I was gifted a flood. Oh, I had received small handfuls of the past before — debris of a time known as childhood, shrapnel lives I could have lived — but nothing like this. Discarded sunsets, unending roads. The true and all-consuming fear of dying without love.
 
-Mostly, though, I remembered the end. The hospital facing the sea, the walls white as honey. Nurses panicking and doing their best not to show it. The doctor panicking and making this widely known. I knew, then, that it was coming. Despite the lime tint of morphine, and the pain splitting apart my center, I struggled to open my eyes. 
+Mostly, though, I remembered the end. The hospital facing the sea, the walls white as time. Nurses panicking and doing their best not to show it. The doctor panicking and making this widely known. I knew, then, that it was coming. Despite the lime tint of morphine, and the pain splitting apart my center, I struggled to open my eyes. 
 
 *One last time,* I remember thinking. *I want to see the world one last time.*
 
