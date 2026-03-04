@@ -300,9 +300,9 @@ In the distance, a dark jagged line on the horizon — *mountains*, I remembered
 
 The stranger collected my skull, and hung it artlessly onto my neck. There was a large crack in my pelvis, I was missing the fourth finger of my left hand. My flesh, the texture of soap, left dark stains on his clothes. 
 
-I was more whole than I’d been in a long time. 
+It was the most whole I’d been in a long time. 
 
-The stranger cradled me to his sternum, surrounding me in that same impossible warmth, and no one had ever held me like this. Not even as a child.
+The stranger cradled me to his sternum, surrounding me in that same impossible warmth, and no one had ever held me like this, not even as a child.
 
 ‘It’s been so long,’ he murmured. ‘It’s time for you to come home.’
 
