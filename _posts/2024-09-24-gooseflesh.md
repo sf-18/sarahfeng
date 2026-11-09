@@ -80,7 +80,7 @@ He shook his head.
 
 She closed her eyes. Her arms were bruised, varicose; just then I realized how young she was.
 
-‘There’s no happily ever after,’ she said. ‘Not with the dead. The body will decompose even faster out in the open. See her liver? The bugs are already having a field day. And the cops, soon enough.’	
+‘The body will decompose even faster out in the open,' she said. 'See her liver? The bugs are already having a field day. So will the cops.’	
 
 The stranger seemed to shrink then.	
 
@@ -120,7 +120,7 @@ The police had sectioned me off with yellow tape, stickying various objects in t
 
 The girl’s eyes swept over the scene. When they took me in, she clapped a hand over her mouth and said, Oh, God. She doubled over, convulsing slightly, and I watched with both concern and fascination as a thin film of bile came dripping out of her mouth.			
 
-‘Please, take it away,’ she said. ‘I can’t bear to see what he’s done.’
+‘Please,' she said. 'Take it away.'
 
 
 --						
@@ -144,7 +144,7 @@ The stranger knelt. With trembling fingers, he gathered my left hand in his.
 
 My ring finger was missing. 
 
-‘I can make a replica,' he rushed to reassure me. 'There’s an art supply store down by Kachemak Bay.’
+‘There’s an art supply store,' he rushed to reassure me, 'down by Kachemak Bay.’
 
 He was interrupted by the sound of his phone going off; whatever he saw on the screen caused him to frown and curse. Hurriedly he shut the ring back into the box — the colors disappeared from the walls, and I was bereft — and pocketed it.
 
@@ -202,7 +202,7 @@ I had not minded death, I thought, but there was something to be said for living
 --					
 
 
-It was a routine inspection, the sheriff explained. ‘We got some reports about unregulated fires. People fussin' about the environment and all that.’ He sounded utterly unconcerned; conspiratorial, even.
+It was a routine inspection, the sheriff explained. ‘We got some reports about unregulated fires. People fussin' about the environment and all that.’ Lacking in the round vowels of concern, his voice bordered on conspiratorial. 
 
 ‘We’ve been living out here for months,’ the stranger said. ‘It’s bullshit.’
 
@@ -220,7 +220,7 @@ Most of me was listening to this from the floor of the truck, where the stranger
 
 ‘Been a while since I cleaned my truck.’ 
 
-‘Your wife,’ the sheriff laughed, ‘must be a saint.’
+‘Your wife must be a saint.’
 
 ‘She is.’ 
 
@@ -256,7 +256,7 @@ Carefully, the stranger cupped his hand to the side of my face. His thumb came t
 
 ‘I just couldn’t bear to think of you alone down there.’				
 
-He moved towards me in the darkness, and for the first time since my death, I ran with living blood. 			
+In the darkness he moved toward me, and for the first time since my death, I was made whole by another being.			
 
 
 --						
@@ -288,19 +288,17 @@ Mostly, though, I remembered the end. The hospital facing the sea, the walls whi
 --
 
 					
-It was all happening as it should have, dark and quiet beneath the ground. Iridescent beetles traversed my skeleton; the roots of yet-to-be redwoods delighted in my organs. I'd just gotten used to the larvae, inquisitive as they were, when the soil around me churned. The casket lid opened. And the stranger’s face emerged above me.		
+It was dark and quiet beneath the ground. I had just gotten used to the larvae, their inquisitive wiggle along my shins, when the soil around me churned. The casket lid opened. And the stranger’s face shone above me.	
 
 To see after so long was blinding.
 
-The stranger set down his shovel. Sweat dripped from his temples onto my body, clean streaks amid the dirt. He shucked off his gloves. His hands were calloused, marked by crescent-shaped scars, but when they wrapped around my wrists they were warm.	
+He set down his shovel. Sweat dripped from his temples onto my body, clean streaks amid the dirt. His hands were calloused, marked by crescent-shaped scars, but when they wrapped around my wrists they were warm.	
 
 His right arm hooked itself beneath my spine. His left gathered my pulverized knees. Tugging gently, stopping on occasion to recover a limb or adjust a lopsided foot, he reaped me from the earth. 
 
 In the distance, a dark jagged line on the horizon — *mountains*, I remembered. The word was mountain and the meaning — uncertain for now.					
 
 The stranger collected my skull, and hung it artlessly onto my neck. There was a large crack in my pelvis, I was missing the fourth finger of my left hand. My flesh, the texture of soap, left dark stains on his clothes. 
-
-It was the most whole I’d been in a long time. 
 
 The stranger cradled me to his sternum, surrounding me in that same impossible warmth, and no one had ever held me like this, not even as a child.
 
